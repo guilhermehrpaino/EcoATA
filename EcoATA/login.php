@@ -28,8 +28,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         } else {
             $erro = "E-mail ou senha incorretos.";
         }
-    } catch (\PDOException $e) {
-        $erro = "Erro no sistema: " . $e->getMessage();
+    } catch (\PDOException $erro) {
+        $erro = "Erro no sistema: " . $erro->getMessage();
     }
 }
 ?>
