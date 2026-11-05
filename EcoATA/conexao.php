@@ -19,8 +19,8 @@ try {
     // Tenta estabelecer a conexão
     $pdo = new PDO($dsn, $usuario, $senha, $opcoes);
     // echo "Conexão bem-sucedida!"; // Descomente para testar, mas apague em produção
-} catch (\PDOException $e) {
+} catch (\PDOException $erro) {
     // Captura e exibe o erro caso a conexão falhe
-    die("Erro de conexão com o banco de dados: " . $e->getMessage());
+    die("Erro de conexão com o banco de dados: " . $erro->getMessage());
 }
 ?>
