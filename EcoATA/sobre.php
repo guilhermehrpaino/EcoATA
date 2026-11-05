@@ -215,22 +215,27 @@
 
                 <div class="fundador-card">
 
-                    <h3>Nome do Integrante 1</h3>
+                    <h3>Caiã Caetano</h3>
                     <span>Desenvolvedor</span>
                 </div>
 
                 <div class="fundador-card">
-                    <h3>Nome do Integrante 2</h3>
+                    <h3>Guilherme Henrique</h3>
                     <span>Desenvolvedor</span>
                 </div>
 
                 <div class="fundador-card">
-                    <h3>Nome do Integrante 3</h3>
+                    <h3>Gustavo Floriano</h3>
                     <span>Desenvolvedor</span>
                 </div>
 
                 <div class="fundador-card">
-                    <h3>Nome do Integrante 4</h3>
+                    <h3>João Francisco</h3>
+                    <span>Desenvolvedor</span>
+                </div>
+
+                <div class="fundador-card">
+                    <h3>Vinicius Soles</h3>
                     <span>Desenvolvedor</span>
                 </div>
 
