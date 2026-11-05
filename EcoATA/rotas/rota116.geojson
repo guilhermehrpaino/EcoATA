@@ -1,0 +1,562 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4385245,
+          -21.2031004
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(89, 89, 89, 1)",
+        "nome": "Terminal Urbano Nelson Reis Alves",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4370807,
+          -21.2074926
+        ]
+      },
+      "properties": {
+        "marker-color": "#008cff",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Campos Sales, 138"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4378868,
+          -21.2175147
+        ]
+      },
+      "properties": {
+        "marker-color": "#008cff",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Avenida Brasília, 466"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4376078,
+          -21.2207356
+        ]
+      },
+      "properties": {
+        "marker-color": "#008cff",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Avenida Brasília, 818"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4373874,
+          -21.2225591
+        ]
+      },
+      "properties": {
+        "marker-color": "#008cff",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Avenida Brasília, 994-1034"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.437196,
+          -21.2257949
+        ]
+      },
+      "properties": {
+        "marker-color": "#008cff",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Avenida Brasília, 2020-2028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4454243,
+          -21.2303955
+        ]
+      },
+      "properties": {
+        "marker-color": "#008cff",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Avenida Da Saudade, 1908-1912"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4474599,
+          -21.2328313
+        ]
+      },
+      "properties": {
+        "marker-color": "#008cff",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Jean Pierre Brulhart, 86-134"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4485661,
+          -21.2322079
+        ]
+      },
+      "properties": {
+        "marker-color": "#008cff",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Jean Pierre Brulhart, 216-286"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4519133,
+          -21.230408
+        ]
+      },
+      "properties": {
+        "marker-color": "#008cff",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua São Francisco, 45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4544313,
+          -21.2284388
+        ]
+      },
+      "properties": {
+        "marker-color": "#008cff",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua São Francisco, 428"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4563496,
+          -21.2287259
+        ]
+      },
+      "properties": {
+        "marker-color": "#008cff",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Jarbas Barros Galvão, 581"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4576531,
+          -21.2275609
+        ]
+      },
+      "properties": {
+        "marker-color": "#008cff",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Jarbas Barros Galvão, 753-799"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4609334,
+          -21.2368596
+        ]
+      },
+      "properties": {
+        "marker-color": "#008cff",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Itamar Martinês Álvares, 20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4605648,
+          -21.2398964
+        ]
+      },
+      "properties": {
+        "marker-color": "#008cff",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Padre Roberto Pérez, 240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4591757,
+          -21.23977
+        ]
+      },
+      "properties": {
+        "marker-color": "#008cff",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Afonso Machado Gomes, 655-687"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -50.4385243,
+            -21.2031002
+          ],
+          [
+            -50.4388009,
+            -21.2034715
+          ],
+          [
+            -50.4386419,
+            -21.2035666
+          ],
+          [
+            -50.438764,
+            -21.2037414
+          ],
+          [
+            -50.4389676,
+            -21.2038184
+          ],
+          [
+            -50.4390059,
+            -21.2040513
+          ],
+          [
+            -50.4388597,
+            -21.2057146
+          ],
+          [
+            -50.4394268,
+            -21.2057805
+          ],
+          [
+            -50.4393227,
+            -21.2066899
+          ],
+          [
+            -50.4383322,
+            -21.2065886
+          ],
+          [
+            -50.4370336,
+            -21.2075267
+          ],
+          [
+            -50.4369534,
+            -21.2075892
+          ],
+          [
+            -50.4368563,
+            -21.2094295
+          ],
+          [
+            -50.4366082,
+            -21.2151374
+          ],
+          [
+            -50.4380718,
+            -21.2152291
+          ],
+          [
+            -50.4379479,
+            -21.2164286
+          ],
+          [
+            -50.437829,
+            -21.218027
+          ],
+          [
+            -50.4376304,
+            -21.2202406
+          ],
+          [
+            -50.4374691,
+            -21.2216477
+          ],
+          [
+            -50.4376314,
+            -21.221783
+          ],
+          [
+            -50.4376144,
+            -21.221998
+          ],
+          [
+            -50.4374264,
+            -21.2220856
+          ],
+          [
+            -50.4373502,
+            -21.2226816
+          ],
+          [
+            -50.4373058,
+            -21.2232455
+          ],
+          [
+            -50.4372447,
+            -21.2238769
+          ],
+          [
+            -50.4371541,
+            -21.2247684
+          ],
+          [
+            -50.4371457,
+            -21.2256712
+          ],
+          [
+            -50.4373343,
+            -21.2272256
+          ],
+          [
+            -50.4374074,
+            -21.2276326
+          ],
+          [
+            -50.4379968,
+            -21.2291135
+          ],
+          [
+            -50.4381283,
+            -21.2293857
+          ],
+          [
+            -50.440384,
+            -21.2283034
+          ],
+          [
+            -50.4407379,
+            -21.2290352
+          ],
+          [
+            -50.4442763,
+            -21.2272109
+          ],
+          [
+            -50.4444643,
+            -21.2285199
+          ],
+          [
+            -50.4446965,
+            -21.229262
+          ],
+          [
+            -50.4452051,
+            -21.230169
+          ],
+          [
+            -50.4461835,
+            -21.2316891
+          ],
+          [
+            -50.4470641,
+            -21.2330848
+          ],
+          [
+            -50.4493538,
+            -21.2318095
+          ],
+          [
+            -50.4504728,
+            -21.2311295
+          ],
+          [
+            -50.4512512,
+            -21.2307136
+          ],
+          [
+            -50.4517644,
+            -21.2305292
+          ],
+          [
+            -50.4533104,
+            -21.2294165
+          ],
+          [
+            -50.4546766,
+            -21.2282352
+          ],
+          [
+            -50.4577392,
+            -21.2254793
+          ],
+          [
+            -50.4588226,
+            -21.2265552
+          ],
+          [
+            -50.455677,
+            -21.2293354
+          ],
+          [
+            -50.4580077,
+            -21.2316446
+          ],
+          [
+            -50.4581869,
+            -21.2319332
+          ],
+          [
+            -50.4583173,
+            -21.2329359
+          ],
+          [
+            -50.4586759,
+            -21.2332701
+          ],
+          [
+            -50.4594256,
+            -21.2336499
+          ],
+          [
+            -50.4597724,
+            -21.2337965
+          ],
+          [
+            -50.4596519,
+            -21.2346495
+          ],
+          [
+            -50.4594798,
+            -21.2365434
+          ],
+          [
+            -50.4609475,
+            -21.2366383
+          ],
+          [
+            -50.4608393,
+            -21.2378373
+          ],
+          [
+            -50.4606628,
+            -21.2399115
+          ],
+          [
+            -50.4602683,
+            -21.2398764
+          ],
+          [
+            -50.4601395,
+            -21.2398714
+          ],
+          [
+            -50.4601288,
+            -21.2400015
+          ],
+          [
+            -50.4591601,
+            -21.2399315
+          ],
+          [
+            -50.4591762,
+            -21.2397614
+          ]
+        ]
+      },
+      "properties": {
+        "nome": "Linha 116 - JUSSARA / LAGO AZUL / NOVA YORK",
+        "tempoEstimado": "60min",
+        "stroke": "#008cff"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4607,
+          -21.2395279
+        ]
+      },
+      "properties": {
+        "marker-color": "#008cff",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Itamar Martinês Álvares, 314-374"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4389193,
+          -21.2054461
+        ]
+      },
+      "properties": {
+        "marker-color": "#008cff",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Joaquim Nabuco, 43"
+      }
+    }
+  ]
+}

@@ -1,0 +1,495 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4385245,
+          -21.2031004
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(89, 89, 89, 1)",
+        "nome": "Terminal Urbano Nelson Reis Alves",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4398458,
+          -21.2005669
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(255, 0, 238, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Do Fico, 230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4398933,
+          -21.1987624
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(255, 0, 238, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Do Fico, 478"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4399329,
+          -21.1977118
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(255, 0, 238, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Do Fico, 660"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4344074,
+          -21.1952713
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(255, 0, 238, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Aviação, 340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4330337,
+          -21.1926786
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(255, 0, 238, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Arthur Ferreira Da Costa, 198"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4306094,
+          -21.1922323
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(255, 0, 238, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Arthur Ferreira Da Costa, 411"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4289796,
+          -21.1919619
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(255, 0, 238, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Arthur Ferreira Da Costa, 563"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4276122,
+          -21.1916926
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(255, 0, 238, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Arthur Ferreira Da Costa, 730"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4245203,
+          -21.191118
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(255, 0, 238, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Arthur Ferreira Da Costa, 1050-1082"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4231629,
+          -21.190889
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(255, 0, 238, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Arthur Ferreira Da Costa, 1162"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4217387,
+          -21.1906222
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(255, 0, 238, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Arthur Ferreira Da Costa, 1352-1374"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4265316,
+          -21.1845785
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(255, 0, 238, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Sud Menuci, 614"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4260529,
+          -21.1837142
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(255, 0, 238, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Aeronáutica, 90-180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4274274,
+          -21.1828822
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(255, 0, 238, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Aeronáutica, 276-358"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4295778,
+          -21.1887681
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(255, 0, 238, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Bauru, 132"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4356532,
+          -21.1710022
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(255, 0, 238, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Terra Nova"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -50.438525,
+            -21.2030995
+          ],
+          [
+            -50.4381463,
+            -21.2026604
+          ],
+          [
+            -50.4381338,
+            -21.2022154
+          ],
+          [
+            -50.4382463,
+            -21.2021766
+          ],
+          [
+            -50.4391821,
+            -21.2031054
+          ],
+          [
+            -50.439285,
+            -21.2017388
+          ],
+          [
+            -50.4398496,
+            -21.2017478
+          ],
+          [
+            -50.4399612,
+            -21.197268
+          ],
+          [
+            -50.4375813,
+            -21.1972557
+          ],
+          [
+            -50.4343883,
+            -21.1972631
+          ],
+          [
+            -50.4343758,
+            -21.1958517
+          ],
+          [
+            -50.4344074,
+            -21.1952739
+          ],
+          [
+            -50.4347961,
+            -21.1929473
+          ],
+          [
+            -50.4282164,
+            -21.1917444
+          ],
+          [
+            -50.4214622,
+            -21.1905157
+          ],
+          [
+            -50.4209839,
+            -21.1904146
+          ],
+          [
+            -50.4210047,
+            -21.1902837
+          ],
+          [
+            -50.421189,
+            -21.190117
+          ],
+          [
+            -50.4235639,
+            -21.1886983
+          ],
+          [
+            -50.424974,
+            -21.1878785
+          ],
+          [
+            -50.4257635,
+            -21.1889944
+          ],
+          [
+            -50.4256945,
+            -21.1893335
+          ],
+          [
+            -50.4293715,
+            -21.1899871
+          ],
+          [
+            -50.4297297,
+            -21.1878774
+          ],
+          [
+            -50.4296608,
+            -21.1873702
+          ],
+          [
+            -50.4286293,
+            -21.1857804
+          ],
+          [
+            -50.4276983,
+            -21.1863097
+          ],
+          [
+            -50.4259772,
+            -21.1837529
+          ],
+          [
+            -50.429737,
+            -21.1814997
+          ],
+          [
+            -50.428722,
+            -21.1801587
+          ],
+          [
+            -50.426049,
+            -21.178102
+          ],
+          [
+            -50.4244762,
+            -21.1769207
+          ],
+          [
+            -50.4239237,
+            -21.1767195
+          ],
+          [
+            -50.4238303,
+            -21.1765692
+          ],
+          [
+            -50.4239313,
+            -21.1764544
+          ],
+          [
+            -50.4242243,
+            -21.176423
+          ],
+          [
+            -50.4245133,
+            -21.176371
+          ],
+          [
+            -50.4299296,
+            -21.1733276
+          ],
+          [
+            -50.4305849,
+            -21.1729595
+          ],
+          [
+            -50.4334104,
+            -21.172472
+          ],
+          [
+            -50.4347826,
+            -21.1722162
+          ],
+          [
+            -50.4354809,
+            -21.1720802
+          ],
+          [
+            -50.4361341,
+            -21.171958
+          ],
+          [
+            -50.4360707,
+            -21.1718122
+          ],
+          [
+            -50.4358345,
+            -21.1717879
+          ],
+          [
+            -50.4358169,
+            -21.171587
+          ],
+          [
+            -50.4357677,
+            -21.1714655
+          ],
+          [
+            -50.4357339,
+            -21.1714281
+          ],
+          [
+            -50.4356798,
+            -21.1713386
+          ],
+          [
+            -50.435766,
+            -21.171211
+          ],
+          [
+            -50.4356523,
+            -21.1710025
+          ]
+        ]
+      },
+      "properties": {
+        "nome": "Linha 111 - APARECIDA / TERRA NOVA / POUPATEMPO da TUA",
+        "tempoEstimado": "60min",
+        "marker-color": "rgba(255, 0, 238, 1)",
+        "stroke": "#ff00ee"
+      }
+    }
+  ]
+}

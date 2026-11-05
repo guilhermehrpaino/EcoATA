@@ -1,0 +1,598 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4385245,
+          -21.2031004
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(89, 89, 89, 1)",
+        "nome": "Terminal Urbano Nelson Reis Alves",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4156848,
+          -21.2141908
+        ]
+      },
+      "properties": {
+        "nome": "Avenida Umuarama, 640",
+        "marker-color": "#c55757",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -50.4385248,
+            -21.2031003
+          ],
+          [
+            -50.438137,
+            -21.2026662
+          ],
+          [
+            -50.4381237,
+            -21.2027116
+          ],
+          [
+            -50.4381149,
+            -21.2027535
+          ],
+          [
+            -50.4380861,
+            -21.2028344
+          ],
+          [
+            -50.4379974,
+            -21.2029475
+          ],
+          [
+            -50.4378856,
+            -21.203051
+          ],
+          [
+            -50.4377682,
+            -21.2031463
+          ],
+          [
+            -50.4376166,
+            -21.2032756
+          ],
+          [
+            -50.4379231,
+            -21.2036025
+          ],
+          [
+            -50.438264,
+            -21.2039667
+          ],
+          [
+            -50.4387497,
+            -21.2045202
+          ],
+          [
+            -50.4389282,
+            -21.2047149
+          ],
+          [
+            -50.4389302,
+            -21.2047695
+          ],
+          [
+            -50.4389117,
+            -21.2049699
+          ],
+          [
+            -50.4388834,
+            -21.2052487
+          ],
+          [
+            -50.4388693,
+            -21.205407
+          ],
+          [
+            -50.4388551,
+            -21.2055521
+          ],
+          [
+            -50.438843,
+            -21.205699
+          ],
+          [
+            -50.4388389,
+            -21.205716
+          ],
+          [
+            -50.4384833,
+            -21.2056802
+          ],
+          [
+            -50.4384369,
+            -21.2056773
+          ],
+          [
+            -50.4383986,
+            -21.205677
+          ],
+          [
+            -50.438398,
+            -21.2057263
+          ],
+          [
+            -50.4383806,
+            -21.2058721
+          ],
+          [
+            -50.4383471,
+            -21.2061483
+          ],
+          [
+            -50.4382986,
+            -21.2065756
+          ],
+          [
+            -50.4384865,
+            -21.2065943
+          ],
+          [
+            -50.4387398,
+            -21.2066224
+          ],
+          [
+            -50.4387119,
+            -21.2069342
+          ],
+          [
+            -50.4386266,
+            -21.2078643
+          ],
+          [
+            -50.4385637,
+            -21.2086594
+          ],
+          [
+            -50.4385073,
+            -21.2093114
+          ],
+          [
+            -50.4382124,
+            -21.2125951
+          ],
+          [
+            -50.437927,
+            -21.2152496
+          ],
+          [
+            -50.4365854,
+            -21.215113
+          ],
+          [
+            -50.4365428,
+            -21.2159853
+          ],
+          [
+            -50.4378619,
+            -21.2160893
+          ],
+          [
+            -50.4378195,
+            -21.2164559
+          ],
+          [
+            -50.4376737,
+            -21.2179169
+          ],
+          [
+            -50.4375394,
+            -21.219332
+          ],
+          [
+            -50.4374593,
+            -21.2201474
+          ],
+          [
+            -50.4373572,
+            -21.2212637
+          ],
+          [
+            -50.4372916,
+            -21.2216374
+          ],
+          [
+            -50.4371458,
+            -21.2217394
+          ],
+          [
+            -50.4367085,
+            -21.221753
+          ],
+          [
+            -50.4355714,
+            -21.2216374
+          ],
+          [
+            -50.4343,
+            -21.221454
+          ],
+          [
+            -50.4335273,
+            -21.2212094
+          ],
+          [
+            -50.4326963,
+            -21.2209851
+          ],
+          [
+            -50.4318654,
+            -21.220958
+          ],
+          [
+            -50.430721,
+            -21.2209172
+          ],
+          [
+            -50.430065,
+            -21.2209104
+          ],
+          [
+            -50.4297621,
+            -21.2207867
+          ],
+          [
+            -50.4296017,
+            -21.2208071
+          ],
+          [
+            -50.4294924,
+            -21.2209362
+          ],
+          [
+            -50.4295507,
+            -21.2211604
+          ],
+          [
+            -50.4295143,
+            -21.2214662
+          ],
+          [
+            -50.4292008,
+            -21.2218603
+          ],
+          [
+            -50.4288364,
+            -21.2223087
+          ],
+          [
+            -50.4283553,
+            -21.2227708
+          ],
+          [
+            -50.4277673,
+            -21.2232672
+          ],
+          [
+            -50.4269509,
+            -21.2239331
+          ],
+          [
+            -50.4261345,
+            -21.224565
+          ],
+          [
+            -50.4256753,
+            -21.2249183
+          ],
+          [
+            -50.4254056,
+            -21.2247892
+          ],
+          [
+            -50.4252744,
+            -21.2248028
+          ],
+          [
+            -50.4250193,
+            -21.2250542
+          ],
+          [
+            -50.424786,
+            -21.2251221
+          ],
+          [
+            -50.4244289,
+            -21.2248164
+          ],
+          [
+            -50.4241373,
+            -21.224565
+          ],
+          [
+            -50.4237507,
+            -21.2231534
+          ],
+          [
+            -50.4230997,
+            -21.2210274
+          ],
+          [
+            -50.4224378,
+            -21.2188536
+          ],
+          [
+            -50.4221536,
+            -21.2179659
+          ],
+          [
+            -50.4187178,
+            -21.2189311
+          ],
+          [
+            -50.4178619,
+            -21.2162832
+          ],
+          [
+            -50.4174518,
+            -21.2150073
+          ],
+          [
+            -50.4160819,
+            -21.2153973
+          ],
+          [
+            -50.4156835,
+            -21.2141837
+          ],
+          [
+            -50.415683,
+            -21.2141827
+          ]
+        ]
+      },
+      "properties": {
+        "nome": "Linha 117 - Terminal Umuarama",
+        "tempoEstimado": "60min",
+        "stroke": "#c55757"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4182392,
+          -21.2174325
+        ]
+      },
+      "properties": {
+        "nome": "Rua João Batista Botelho, 1076",
+        "marker-color": "#c55757",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4189612,
+          -21.2188344
+        ]
+      },
+      "properties": {
+        "nome": "Rua Sebastião Guimarães Corrêa, 335",
+        "marker-color": "#c55757",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4225518,
+          -21.21897
+        ]
+      },
+      "properties": {
+        "nome": "Rua Doutor Francisco Vilela, 715",
+        "marker-color": "#c55757",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4281676,
+          -21.222894
+        ]
+      },
+      "properties": {
+        "nome": "Rua Baguaçu, 2077",
+        "marker-color": "#c55757",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4311647,
+          -21.2209194
+        ]
+      },
+      "properties": {
+        "nome": "Avenida Joaquim Pompeu De Toledo, 597-659",
+        "marker-color": "#c55757",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4354204,
+          -21.2216062
+        ]
+      },
+      "properties": {
+        "nome": "Avenida Joaquim Pompeu De Toledo, 35-197",
+        "marker-color": "#c55757",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4373755,
+          -21.2207175
+        ]
+      },
+      "properties": {
+        "nome": "Avenida Brasília, 817-909",
+        "marker-color": "#c55757",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4376775,
+          -21.2174932
+        ]
+      },
+      "properties": {
+        "nome": "Avenida Brasília, 1333-1425",
+        "marker-color": "#c55757",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4379636,
+          -21.2145557
+        ]
+      },
+      "properties": {
+        "nome": "Avenida Brasília, 879",
+        "marker-color": "#c55757",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4381495,
+          -21.212456
+        ]
+      },
+      "properties": {
+        "nome": "Rua Luiz Pereira Barreto, 637",
+        "marker-color": "#c55757",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4382568,
+          -21.2115576
+        ]
+      },
+      "properties": {
+        "nome": "Rua Luiz Pereira Barreto, 461 - 507",
+        "marker-color": "#c55757",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4384123,
+          -21.2095117
+        ]
+      },
+      "properties": {
+        "nome": "Rua Luiz Pereira Barreto, 319",
+        "marker-color": "#c55757",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.438589,
+          -21.2079428
+        ]
+      },
+      "properties": {
+        "nome": "Rua Luiz Pereira Barreto, 137",
+        "marker-color": "#c55757",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4379059,
+          -21.2035305
+        ]
+      },
+      "properties": {
+        "nome": "Rua Quinze De Novembro, 206-292",
+        "marker-color": "#c55757",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    }
+  ]
+}

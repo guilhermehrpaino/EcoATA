@@ -1,0 +1,583 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4385245,
+          -21.2031004
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(89, 89, 89, 1)",
+        "nome": "Terminal Urbano Nelson Reis Alves",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -50.4385248,
+            -21.2030999
+          ],
+          [
+            -50.4381475,
+            -21.2026632
+          ],
+          [
+            -50.4381403,
+            -21.2022201
+          ],
+          [
+            -50.4382563,
+            -21.2021685
+          ],
+          [
+            -50.4391833,
+            -21.2030887
+          ],
+          [
+            -50.4392909,
+            -21.2017307
+          ],
+          [
+            -50.4398483,
+            -21.2017462
+          ],
+          [
+            -50.4399576,
+            -21.1973287
+          ],
+          [
+            -50.4400061,
+            -21.1944975
+          ],
+          [
+            -50.4404836,
+            -21.1916992
+          ],
+          [
+            -50.4410259,
+            -21.1867253
+          ],
+          [
+            -50.4425081,
+            -21.1798081
+          ],
+          [
+            -50.4444121,
+            -21.1708276
+          ],
+          [
+            -50.4442521,
+            -21.1699823
+          ],
+          [
+            -50.4426509,
+            -21.1671467
+          ],
+          [
+            -50.4417166,
+            -21.1653436
+          ],
+          [
+            -50.4406156,
+            -21.1631739
+          ],
+          [
+            -50.4403168,
+            -21.1625779
+          ],
+          [
+            -50.440056,
+            -21.1626811
+          ],
+          [
+            -50.4378739,
+            -21.1654548
+          ],
+          [
+            -50.4366579,
+            -21.164607
+          ],
+          [
+            -50.4389736,
+            -21.1616532
+          ],
+          [
+            -50.4399316,
+            -21.1623338
+          ],
+          [
+            -50.4400627,
+            -21.1626741
+          ],
+          [
+            -50.4404328,
+            -21.1625526
+          ],
+          [
+            -50.4410871,
+            -21.1639103
+          ],
+          [
+            -50.4416874,
+            -21.1649261
+          ],
+          [
+            -50.4420334,
+            -21.1658777
+          ],
+          [
+            -50.442883,
+            -21.1673921
+          ],
+          [
+            -50.444107,
+            -21.1695808
+          ],
+          [
+            -50.4443223,
+            -21.169693
+          ],
+          [
+            -50.4445313,
+            -21.1695867
+          ],
+          [
+            -50.4448163,
+            -21.1696044
+          ],
+          [
+            -50.4451646,
+            -21.1695985
+          ],
+          [
+            -50.4478597,
+            -21.1677645
+          ],
+          [
+            -50.4495011,
+            -21.1665385
+          ],
+          [
+            -50.44958,
+            -21.1664895
+          ],
+          [
+            -50.4496658,
+            -21.1664607
+          ],
+          [
+            -50.4498494,
+            -21.1664319
+          ],
+          [
+            -50.4517636,
+            -21.1651178
+          ],
+          [
+            -50.4524095,
+            -21.1646578
+          ],
+          [
+            -50.4521864,
+            -21.1633984
+          ],
+          [
+            -50.4505731,
+            -21.1636264
+          ],
+          [
+            -50.4489076,
+            -21.1581409
+          ],
+          [
+            -50.4494381,
+            -21.1579908
+          ],
+          [
+            -50.4509158,
+            -21.1571427
+          ],
+          [
+            -50.450444,
+            -21.1543346
+          ],
+          [
+            -50.4521026,
+            -21.1534507
+          ],
+          [
+            -50.4551478,
+            -21.151823
+          ],
+          [
+            -50.4563005,
+            -21.153844
+          ],
+          [
+            -50.450906,
+            -21.1567787
+          ],
+          [
+            -50.4509053,
+            -21.156778
+          ]
+        ]
+      },
+      "properties": {
+        "nome": "Linha 112 - JARDIM ATLÂNTICO / ETEMP VIA RUA DO FICO da TUA",
+        "tempoEstimado": "60min",
+        "marker-color": "rgba(35, 193, 193, 1)",
+        "stroke": "#23c1c1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4399126,
+          -21.200571
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(35, 193, 193, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua do Fico, 230",
+        "tempoEstimado": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4399962,
+          -21.1987804
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(35, 193, 193, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua do Fico, 478",
+        "tempoEstimado": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4400646,
+          -21.1976969
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(35, 193, 193, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua do Fico, 660",
+        "tempoEstimado": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4399482,
+          -21.1943724
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(35, 193, 193, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua do Fico, 980",
+        "tempoEstimado": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.444095,
+          -21.1721824
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(35, 193, 193, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Av. José Ferreira Baptista, 1373",
+        "tempoEstimado": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4432492,
+          -21.168286
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(35, 193, 193, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Via De Acesso Olegário Ferraz, 2-254",
+        "tempoEstimado": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4418031,
+          -21.1655078
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(35, 193, 193, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Via De Acesso Olegário Ferraz, 428-522",
+        "tempoEstimado": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4376591,
+          -21.1652659
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(35, 193, 193, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua João De Oliveira, 1-153",
+        "tempoEstimado": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4373655,
+          -21.1637226
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(35, 193, 193, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Alfredo Vitório Martineli, 469-521",
+        "tempoEstimado": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4467855,
+          -21.1684253
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(35, 193, 193, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Via De Acesso Etelvino Ferreira Dos Santos, 2-282",
+        "tempoEstimado": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4521381,
+          -21.1634032
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(35, 193, 193, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Agenor Zanoni, 1-135",
+        "tempoEstimado": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4505304,
+          -21.1634836
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(35, 193, 193, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Avenida Luís Gonzaga Da Silva, 104-158",
+        "tempoEstimado": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4503963,
+          -21.1629632
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(35, 193, 193, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Avenida Luís Gonzaga Da Silva, 266-318",
+        "tempoEstimado": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4490568,
+          -21.1583854
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(35, 193, 193, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Avenida Luís Gonzaga Da Silva, 580-628",
+        "tempoEstimado": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4502921,
+          -21.1573942
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(35, 193, 193, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Pedro Trevisan, 130",
+        "tempoEstimado": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4515477,
+          -21.1564239
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(35, 193, 193, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Geraldo Sanches Hernandes, 350",
+        "tempoEstimado": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4547312,
+          -21.1546841
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(35, 193, 193, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Geraldo Sanches Hernandes, 350",
+        "tempoEstimado": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4549079,
+          -21.1519297
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(35, 193, 193, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Atlântico 1",
+        "tempoEstimado": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4516368,
+          -21.1536724
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(35, 193, 193, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua José Trevisan Bacelar, 330",
+        "tempoEstimado": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4505158,
+          -21.1546377
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(35, 193, 193, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Agenor Zanoni, 951",
+        "tempoEstimado": ""
+      }
+    }
+  ]
+}

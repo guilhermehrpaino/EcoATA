@@ -1,0 +1,410 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "rgba(89, 89, 89, 1)",
+        "nome": "Terminal Urbano Nelson Reis Alves",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4385245,
+          -21.2031004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Linha 103 Terminal - Claudionor Cinti",
+        "tempoEstimado": "60min",
+        "stroke": "#ff8401"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -50.4652137,
+            -21.2334393
+          ],
+          [
+            -50.4646077,
+            -21.2333934
+          ],
+          [
+            -50.4670288,
+            -21.2317037
+          ],
+          [
+            -50.4687755,
+            -21.2303649
+          ],
+          [
+            -50.4715118,
+            -21.2284105
+          ],
+          [
+            -50.4716911,
+            -21.2248819
+          ],
+          [
+            -50.4717815,
+            -21.2231012
+          ],
+          [
+            -50.471866,
+            -21.2214876
+          ],
+          [
+            -50.4744518,
+            -21.2216227
+          ],
+          [
+            -50.4734566,
+            -21.2184947
+          ],
+          [
+            -50.4726908,
+            -21.2161264
+          ],
+          [
+            -50.47288,
+            -21.2135008
+          ],
+          [
+            -50.4707181,
+            -21.2129798
+          ],
+          [
+            -50.4672517,
+            -21.2122269
+          ],
+          [
+            -50.4662786,
+            -21.2120142
+          ],
+          [
+            -50.4615885,
+            -21.211062
+          ],
+          [
+            -50.4613409,
+            -21.2145693
+          ],
+          [
+            -50.4579971,
+            -21.2143652
+          ],
+          [
+            -50.4540675,
+            -21.2141349
+          ],
+          [
+            -50.4500208,
+            -21.213854
+          ],
+          [
+            -50.4458874,
+            -21.213394
+          ],
+          [
+            -50.4415504,
+            -21.2129175
+          ],
+          [
+            -50.4410744,
+            -21.2129096
+          ],
+          [
+            -50.4411414,
+            -21.2117756
+          ],
+          [
+            -50.441346,
+            -21.2094643
+          ],
+          [
+            -50.4385345,
+            -21.209208
+          ],
+          [
+            -50.4387554,
+            -21.2066611
+          ],
+          [
+            -50.4383075,
+            -21.2066058
+          ],
+          [
+            -50.4384195,
+            -21.2056969
+          ],
+          [
+            -50.4368945,
+            -21.2038562
+          ],
+          [
+            -50.4375036,
+            -21.2033714
+          ],
+          [
+            -50.4378064,
+            -21.2031366
+          ],
+          [
+            -50.437956,
+            -21.203001
+          ],
+          [
+            -50.4380866,
+            -21.2028674
+          ],
+          [
+            -50.4381063,
+            -21.2028228
+          ],
+          [
+            -50.4381201,
+            -21.2027736
+          ],
+          [
+            -50.4381401,
+            -21.2026776
+          ],
+          [
+            -50.4385249,
+            -21.203101
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8401",
+        "nome": "Rua Luiz Pereira Barreto, 137",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4385737,
+          -21.2080575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8401",
+        "nome": "Rua Duque De Caxias, 523",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4412462,
+          -21.2104097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8401",
+        "nome": "Rua Duque De Caxias, 721-749",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.441104,
+          -21.2119172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8401",
+        "nome": "Rua Cristiano Olsen, 1741-1791",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.442643,
+          -21.213008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8401",
+        "nome": "Rua Cristiano Olsen, 1987",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4450688,
+          -21.2132802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8401",
+        "nome": "Rua Cristiano Olsen, 2501",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.450056,
+          -21.2138661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8401",
+        "nome": "Rua Cristiano Olsen, 2931",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4543074,
+          -21.2141476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8401",
+        "nome": "Rua Cristiano Olsen, 3613",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4609604,
+          -21.2145256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8401",
+        "nome": "Shopping Praça Nova",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4687062,
+          -21.2124538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8401",
+        "nome": "Rua Honório De Oliveira Camargo Júnior, 355-435",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4728909,
+          -21.2166689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8401",
+        "nome": "Rua Celestino Blaya Mendes, 160-390",
+        "marker-symbol": "bus",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4741055,
+          -21.2215544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8401",
+        "nome": "Rua Vereador Décio Sampaio, 323",
+        "marker-symbol": "bus",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4717193,
+          -21.2241994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8401",
+        "nome": "Avenida Presidente Juscelino Kubitscheck De Oliveira",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4691655,
+          -21.2299755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "rgba(255, 132, 1, 1)",
+        "nome": "Terminal Urbano Nelson Reis Alves",
+        "marker-symbol": "bus",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4652004,
+          -21.2334501
+        ]
+      }
+    }
+  ]
+}

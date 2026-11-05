@@ -1,0 +1,501 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4385245,
+          -21.2031004
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(89, 89, 89, 1)",
+        "nome": "Terminal Urbano Nelson Reis Alves",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -50.4385242,
+            -21.2031001
+          ],
+          [
+            -50.4387894,
+            -21.203466
+          ],
+          [
+            -50.4386178,
+            -21.2035655
+          ],
+          [
+            -50.4387551,
+            -21.2037479
+          ],
+          [
+            -50.4389474,
+            -21.2038226
+          ],
+          [
+            -50.4389779,
+            -21.2039364
+          ],
+          [
+            -50.4389813,
+            -21.2041151
+          ],
+          [
+            -50.4389454,
+            -21.2046058
+          ],
+          [
+            -50.4389378,
+            -21.2047503
+          ],
+          [
+            -50.4389309,
+            -21.20485
+          ],
+          [
+            -50.43892,
+            -21.2049485
+          ],
+          [
+            -50.4389046,
+            -21.2051236
+          ],
+          [
+            -50.4388864,
+            -21.2053249
+          ],
+          [
+            -50.4388517,
+            -21.2057275
+          ],
+          [
+            -50.4394054,
+            -21.205785
+          ],
+          [
+            -50.4394167,
+            -21.2057885
+          ],
+          [
+            -50.4393568,
+            -21.2062865
+          ],
+          [
+            -50.4393099,
+            -21.206705
+          ],
+          [
+            -50.4390022,
+            -21.2066761
+          ],
+          [
+            -50.4387485,
+            -21.2066484
+          ],
+          [
+            -50.4385169,
+            -21.2066174
+          ],
+          [
+            -50.4383462,
+            -21.2065984
+          ],
+          [
+            -50.4382937,
+            -21.2065974
+          ],
+          [
+            -50.4381299,
+            -21.2067178
+          ],
+          [
+            -50.437941,
+            -21.2068575
+          ],
+          [
+            -50.4376799,
+            -21.207042
+          ],
+          [
+            -50.4373768,
+            -21.2072668
+          ],
+          [
+            -50.4372319,
+            -21.2073712
+          ],
+          [
+            -50.436943,
+            -21.2073457
+          ],
+          [
+            -50.432937,
+            -21.2069939
+          ],
+          [
+            -50.4298203,
+            -21.2067238
+          ],
+          [
+            -50.4281201,
+            -21.2065822
+          ],
+          [
+            -50.4280098,
+            -21.2083475
+          ],
+          [
+            -50.4271035,
+            -21.2082646
+          ],
+          [
+            -50.4270179,
+            -21.2096465
+          ],
+          [
+            -50.42695,
+            -21.211028
+          ],
+          [
+            -50.4278028,
+            -21.2109554
+          ],
+          [
+            -50.428467,
+            -21.2108866
+          ],
+          [
+            -50.4288155,
+            -21.2108789
+          ],
+          [
+            -50.4286966,
+            -21.212837
+          ],
+          [
+            -50.4271611,
+            -21.212735
+          ],
+          [
+            -50.4253622,
+            -21.2126229
+          ],
+          [
+            -50.4249442,
+            -21.2125999
+          ],
+          [
+            -50.4248323,
+            -21.2127834
+          ],
+          [
+            -50.4247556,
+            -21.2130128
+          ],
+          [
+            -50.4247761,
+            -21.2135135
+          ],
+          [
+            -50.424827,
+            -21.213928
+          ],
+          [
+            -50.4249295,
+            -21.2141382
+          ],
+          [
+            -50.4248516,
+            -21.2142987
+          ],
+          [
+            -50.4246343,
+            -21.2143331
+          ],
+          [
+            -50.4242366,
+            -21.2145204
+          ],
+          [
+            -50.4235441,
+            -21.2148881
+          ],
+          [
+            -50.4226917,
+            -21.2151498
+          ],
+          [
+            -50.4183435,
+            -21.2163632
+          ],
+          [
+            -50.4150681,
+            -21.2172962
+          ],
+          [
+            -50.4118756,
+            -21.2181888
+          ],
+          [
+            -50.4115254,
+            -21.217389
+          ]
+        ]
+      },
+      "properties": {
+        "nome": "Linha 120 - HILDA VIA ODORINDO PERENHA da TUA",
+        "stroke": "#40ff00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4115266,
+          -21.2173945
+        ]
+      },
+      "properties": {
+        "marker-color": "#40ff00",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Manoel Carvalho De Santana 890"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4147028,
+          -21.2174198
+        ]
+      },
+      "properties": {
+        "marker-color": "#40ff00",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Avenida Odorindo Perenha, 1046"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4203291,
+          -21.2158232
+        ]
+      },
+      "properties": {
+        "marker-color": "#40ff00",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Avenida Odorindo Perenha, 482-528"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4217396,
+          -21.2154658
+        ]
+      },
+      "properties": {
+        "marker-color": "#40ff00",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Avenida Odorindo Perenha, 370-444"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4266476,
+          -21.212693
+        ]
+      },
+      "properties": {
+        "marker-color": "#40ff00",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Jardim Sumaré, 101-173"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4286915,
+          -21.2126944
+        ]
+      },
+      "properties": {
+        "marker-color": "#40ff00",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Minas Gerais, 490-582"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4270296,
+          -21.210226
+        ]
+      },
+      "properties": {
+        "marker-color": "#40ff00",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Amazonas, 746"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4271177,
+          -21.2087228
+        ]
+      },
+      "properties": {
+        "marker-color": "#40ff00",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Amazonas, 624-636"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4277188,
+          -21.2083102
+        ]
+      },
+      "properties": {
+        "marker-color": "#40ff00",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Afonso Pena, 1628"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4281305,
+          -21.2067403
+        ]
+      },
+      "properties": {
+        "marker-color": "#40ff00",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Bahia, 372"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4306553,
+          -21.2068536
+        ]
+      },
+      "properties": {
+        "marker-color": "#40ff00",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Tiradentes, 1020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4328628,
+          -21.2070323
+        ]
+      },
+      "properties": {
+        "marker-color": "#40ff00",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Tiradentes, 710-766"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4353309,
+          -21.2072492
+        ]
+      },
+      "properties": {
+        "marker-color": "#40ff00",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Tiradentes, 522"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4370708,
+          -21.2073748
+        ]
+      },
+      "properties": {
+        "marker-color": "#40ff00",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Tiradentes, 304"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4388326,
+          -21.2054405
+        ]
+      },
+      "properties": {
+        "marker-color": "#40ff00",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Joaquim Nabuco, 43"
+      }
+    }
+  ]
+}

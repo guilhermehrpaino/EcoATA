@@ -1,0 +1,793 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4385245,
+          -21.2031004
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(89, 89, 89, 1)",
+        "nome": "Terminal Urbano Nelson Reis Alves",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -50.4385245,
+            -21.2031
+          ],
+          [
+            -50.4385248,
+            -21.2031004
+          ],
+          [
+            -50.4385252,
+            -21.2031004
+          ],
+          [
+            -50.4385248,
+            -21.2031
+          ],
+          [
+            -50.4385241,
+            -21.2030997
+          ],
+          [
+            -50.4385248,
+            -21.2031
+          ],
+          [
+            -50.438523,
+            -21.203099
+          ],
+          [
+            -50.4385239,
+            -21.2030997
+          ],
+          [
+            -50.4385251,
+            -21.2031008
+          ],
+          [
+            -50.4385247,
+            -21.2031004
+          ],
+          [
+            -50.4386124,
+            -21.2032253
+          ],
+          [
+            -50.4388481,
+            -21.2034825
+          ],
+          [
+            -50.4390501,
+            -21.2037268
+          ],
+          [
+            -50.4391853,
+            -21.2039015
+          ],
+          [
+            -50.4393669,
+            -21.2040003
+          ],
+          [
+            -50.4396571,
+            -21.2041179
+          ],
+          [
+            -50.4398849,
+            -21.2042322
+          ],
+          [
+            -50.4400215,
+            -21.2043112
+          ],
+          [
+            -50.4402213,
+            -21.2044987
+          ],
+          [
+            -50.4404098,
+            -21.2046004
+          ],
+          [
+            -50.4405776,
+            -21.2046901
+          ],
+          [
+            -50.4407634,
+            -21.2047991
+          ],
+          [
+            -50.4409835,
+            -21.2049519
+          ],
+          [
+            -50.4411952,
+            -21.205093
+          ],
+          [
+            -50.4414004,
+            -21.2052292
+          ],
+          [
+            -50.4415515,
+            -21.2053341
+          ],
+          [
+            -50.441743,
+            -21.2054607
+          ],
+          [
+            -50.4418861,
+            -21.2055613
+          ],
+          [
+            -50.4420982,
+            -21.2057028
+          ],
+          [
+            -50.4422982,
+            -21.2058409
+          ],
+          [
+            -50.4424976,
+            -21.2059805
+          ],
+          [
+            -50.4427922,
+            -21.2061707
+          ],
+          [
+            -50.4432976,
+            -21.2055276
+          ],
+          [
+            -50.4438385,
+            -21.2048502
+          ],
+          [
+            -50.4442227,
+            -21.2043351
+          ],
+          [
+            -50.4448346,
+            -21.2035249
+          ],
+          [
+            -50.4455315,
+            -21.2026294
+          ],
+          [
+            -50.4450353,
+            -21.2018343
+          ],
+          [
+            -50.4445856,
+            -21.2010608
+          ],
+          [
+            -50.4448702,
+            -21.2005972
+          ],
+          [
+            -50.445371,
+            -21.1999432
+          ],
+          [
+            -50.4459008,
+            -21.1992584
+          ],
+          [
+            -50.4463847,
+            -21.1984415
+          ],
+          [
+            -50.4468784,
+            -21.1976239
+          ],
+          [
+            -50.4480514,
+            -21.1957104
+          ],
+          [
+            -50.4483775,
+            -21.1953456
+          ],
+          [
+            -50.4504235,
+            -21.1938179
+          ],
+          [
+            -50.4502418,
+            -21.1936326
+          ],
+          [
+            -50.4494005,
+            -21.1926652
+          ],
+          [
+            -50.4488024,
+            -21.1920249
+          ],
+          [
+            -50.4486409,
+            -21.1918432
+          ],
+          [
+            -50.4503371,
+            -21.1904937
+          ],
+          [
+            -50.4519797,
+            -21.189211
+          ],
+          [
+            -50.4540455,
+            -21.1876286
+          ],
+          [
+            -50.4537342,
+            -21.1871094
+          ],
+          [
+            -50.4545365,
+            -21.1861891
+          ],
+          [
+            -50.4562825,
+            -21.1841311
+          ],
+          [
+            -50.4570997,
+            -21.1831578
+          ],
+          [
+            -50.4572851,
+            -21.1829465
+          ],
+          [
+            -50.4578413,
+            -21.1833499
+          ],
+          [
+            -50.4591804,
+            -21.1843553
+          ],
+          [
+            -50.4603671,
+            -21.1852403
+          ],
+          [
+            -50.4613352,
+            -21.1840283
+          ],
+          [
+            -50.4621215,
+            -21.1830337
+          ],
+          [
+            -50.4629168,
+            -21.1821323
+          ],
+          [
+            -50.4637882,
+            -21.1811843
+          ],
+          [
+            -50.465025,
+            -21.1821788
+          ],
+          [
+            -50.4669453,
+            -21.1800557
+          ],
+          [
+            -50.4674117,
+            -21.1824687
+          ],
+          [
+            -50.4672522,
+            -21.1827036
+          ],
+          [
+            -50.4670258,
+            -21.1827906
+          ],
+          [
+            -50.4669104,
+            -21.1829769
+          ],
+          [
+            -50.466977,
+            -21.1831963
+          ],
+          [
+            -50.4672123,
+            -21.1832998
+          ],
+          [
+            -50.4674654,
+            -21.1831838
+          ],
+          [
+            -50.4675497,
+            -21.182923
+          ],
+          [
+            -50.4677229,
+            -21.1827988
+          ],
+          [
+            -50.4679582,
+            -21.1826208
+          ],
+          [
+            -50.4682113,
+            -21.1825504
+          ],
+          [
+            -50.468451,
+            -21.1825297
+          ],
+          [
+            -50.4685931,
+            -21.1822813
+          ],
+          [
+            -50.4685309,
+            -21.1821199
+          ],
+          [
+            -50.4683312,
+            -21.1820495
+          ],
+          [
+            -50.4681402,
+            -21.1820578
+          ],
+          [
+            -50.4679626,
+            -21.1819584
+          ],
+          [
+            -50.4678472,
+            -21.1814658
+          ],
+          [
+            -50.4676514,
+            -21.1804065
+          ],
+          [
+            -50.4674182,
+            -21.179212
+          ],
+          [
+            -50.4671197,
+            -21.1777293
+          ],
+          [
+            -50.4668297,
+            -21.1763066
+          ],
+          [
+            -50.4664442,
+            -21.1742182
+          ],
+          [
+            -50.466384,
+            -21.1738567
+          ],
+          [
+            -50.4679768,
+            -21.1722749
+          ],
+          [
+            -50.4692935,
+            -21.1709689
+          ],
+          [
+            -50.470589,
+            -21.1697048
+          ],
+          [
+            -50.4716788,
+            -21.1686239
+          ],
+          [
+            -50.475659,
+            -21.1646641
+          ],
+          [
+            -50.4753997,
+            -21.1644179
+          ]
+        ]
+      },
+      "properties": {
+        "nome": "Linha 121 - ROSELE/VERDE PARQUE/ÁGUAS CLARAS",
+        "tempoEstimado": "60min",
+        "stroke": "#c7a626"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4754054,
+          -21.1644231
+        ]
+      },
+      "properties": {
+        "marker-color": "#c7a626",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4714247,
+          -21.1688989
+        ]
+      },
+      "properties": {
+        "marker-color": "#c7a626",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Carlos Berguer, 793"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4704402,
+          -21.1699315
+        ]
+      },
+      "properties": {
+        "marker-color": "#c7a626",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Carlos Berger, 673"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4692662,
+          -21.1710049
+        ]
+      },
+      "properties": {
+        "marker-color": "#c7a626",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Carlos Berger, 480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4647421,
+          -21.181989
+        ]
+      },
+      "properties": {
+        "marker-color": "#c7a626",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Carmem Miranda, 402"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4636702,
+          -21.1813373
+        ]
+      },
+      "properties": {
+        "marker-color": "#c7a626",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Vereador Aldo Campos, 1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4621698,
+          -21.1830343
+        ]
+      },
+      "properties": {
+        "marker-color": "#c7a626",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Vereador Aldo Campos, 251"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4615431,
+          -21.1837839
+        ]
+      },
+      "properties": {
+        "marker-color": "#c7a626",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Vereador Aldo Campos, 2965"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4602246,
+          -21.1851177
+        ]
+      },
+      "properties": {
+        "marker-color": "#c7a626",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Celestino Dos Santos Esgalha, 703"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4576522,
+          -21.1832584
+        ]
+      },
+      "properties": {
+        "marker-color": "#c7a626",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Celestino Dos Santos Esgalha, 1004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4559572,
+          -21.1845193
+        ]
+      },
+      "properties": {
+        "marker-color": "#c7a626",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Avenida Maruci, 350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.454309,
+          -21.1864638
+        ]
+      },
+      "properties": {
+        "marker-color": "#c7a626",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Avenida Maruci, 119"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.453216,
+          -21.1882616
+        ]
+      },
+      "properties": {
+        "marker-color": "#c7a626",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Augusto Keller, 108"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4516735,
+          -21.1893901
+        ]
+      },
+      "properties": {
+        "marker-color": "#c7a626",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Augusto Keller, 311"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4496717,
+          -21.1909548
+        ]
+      },
+      "properties": {
+        "marker-color": "#c7a626",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Augusto Keller, 599"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4489263,
+          -21.1920884
+        ]
+      },
+      "properties": {
+        "marker-color": "#c7a626",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua São Luís, 1061"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4502901,
+          -21.1936481
+        ]
+      },
+      "properties": {
+        "marker-color": "#c7a626",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Parada Paróquia Imaculado Coração De Maria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4485917,
+          -21.195193
+        ]
+      },
+      "properties": {
+        "marker-color": "#c7a626",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Saldanha Marinho, 1285"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4469772,
+          -21.1974668
+        ]
+      },
+      "properties": {
+        "marker-color": "#c7a626",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Saldanha Marinho, 899-943"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4447054,
+          -21.201149
+        ]
+      },
+      "properties": {
+        "marker-color": "#c7a626",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Avenida João Arruda Brasil, 24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4451405,
+          -21.2031952
+        ]
+      },
+      "properties": {
+        "marker-color": "#c7a626",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Barão Do Triunfo, 405"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4437998,
+          -21.2049152
+        ]
+      },
+      "properties": {
+        "marker-color": "#c7a626",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Barão Do Triunfo, 145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4413401,
+          -21.2052127
+        ]
+      },
+      "properties": {
+        "marker-color": "#c7a626",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Rangel Pestana, 1605-1689"
+      }
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4385245,
+          -21.2031004
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(89, 89, 89, 1)",
+        "nome": "Terminal Urbano Nelson Reis Alves",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -50.4827858,
+            -21.193547
+          ],
+          [
+            -50.4787955,
+            -21.196594
+          ],
+          [
+            -50.4809847,
+            -21.1990989
+          ],
+          [
+            -50.4823999,
+            -21.1980057
+          ],
+          [
+            -50.4826021,
+            -21.1981754
+          ],
+          [
+            -50.4813486,
+            -21.1990424
+          ],
+          [
+            -50.4823999,
+            -21.2013042
+          ],
+          [
+            -50.4806208,
+            -21.2026424
+          ],
+          [
+            -50.4800548,
+            -21.2017
+          ],
+          [
+            -50.4797313,
+            -21.200588
+          ],
+          [
+            -50.4795696,
+            -21.2003995
+          ],
+          [
+            -50.4761328,
+            -21.2030948
+          ],
+          [
+            -50.4760317,
+            -21.2031325
+          ],
+          [
+            -50.4744548,
+            -21.2011723
+          ],
+          [
+            -50.472979,
+            -21.2018885
+          ],
+          [
+            -50.4724331,
+            -21.2021712
+          ],
+          [
+            -50.4722885,
+            -21.202406
+          ],
+          [
+            -50.4714579,
+            -21.202536
+          ],
+          [
+            -50.471394,
+            -21.2028825
+          ],
+          [
+            -50.4713476,
+            -21.2031316
+          ],
+          [
+            -50.4710339,
+            -21.2031262
+          ],
+          [
+            -50.4680753,
+            -21.2026384
+          ],
+          [
+            -50.4675224,
+            -21.2056505
+          ],
+          [
+            -50.4671316,
+            -21.2075981
+          ],
+          [
+            -50.4651522,
+            -21.2072162
+          ],
+          [
+            -50.4655875,
+            -21.205237
+          ],
+          [
+            -50.461348,
+            -21.2044681
+          ],
+          [
+            -50.4609832,
+            -21.2062989
+          ],
+          [
+            -50.4561751,
+            -21.2053779
+          ],
+          [
+            -50.4555735,
+            -21.209881
+          ],
+          [
+            -50.4557895,
+            -21.2099196
+          ],
+          [
+            -50.4557435,
+            -21.2102837
+          ],
+          [
+            -50.4517193,
+            -21.2099769
+          ],
+          [
+            -50.4495016,
+            -21.2098168
+          ],
+          [
+            -50.4490135,
+            -21.2097896
+          ],
+          [
+            -50.4476708,
+            -21.2092602
+          ],
+          [
+            -50.4466993,
+            -21.2088691
+          ],
+          [
+            -50.446778,
+            -21.2086981
+          ],
+          [
+            -50.4467459,
+            -21.2079517
+          ],
+          [
+            -50.4467363,
+            -21.2075431
+          ],
+          [
+            -50.4467233,
+            -21.2074325
+          ],
+          [
+            -50.4450024,
+            -21.2070518
+          ],
+          [
+            -50.4441527,
+            -21.2067794
+          ],
+          [
+            -50.4434962,
+            -21.2066066
+          ],
+          [
+            -50.4410319,
+            -21.2049338
+          ],
+          [
+            -50.4402945,
+            -21.2044759
+          ],
+          [
+            -50.4400003,
+            -21.204254
+          ],
+          [
+            -50.4396276,
+            -21.2040635
+          ],
+          [
+            -50.4391338,
+            -21.2038462
+          ],
+          [
+            -50.4385783,
+            -21.2031803
+          ],
+          [
+            -50.4385247,
+            -21.2030998
+          ]
+        ]
+      },
+      "properties": {
+        "nome": "Linha 104 - Terminal São José da TUA ",
+        "tempoEstimado": "60min",
+        "stroke": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4432138,
+          -21.2063811
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(255, 0, 0, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Rangel Pestana, 1605-1689"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4467574,
+          -21.2080646
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(255, 0, 0, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua José Pedro Dos Santos 10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4495267,
+          -21.2098012
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(255, 0, 0, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Marechal Deodoro, 1055"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4518863,
+          -21.2100003
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(255, 0, 0, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Marechal Deodoro, 1413"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4557536,
+          -21.2085842
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(255, 0, 0, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Bolívia, 123"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4587214,
+          -21.2058785
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(255, 1, 1, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Pedro Janser, 301"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4729882,
+          -21.2018846
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(255, 0, 0, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Joséfe Smith Júnior, 125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4776261,
+          -21.2019443
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(255, 0, 0, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Parada Sede Da Tua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4827691,
+          -21.1935331
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(255, 0, 0, 1)",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Fundador Paulino Gato, 1163"
+      }
+    }
+  ]
+}

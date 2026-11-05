@@ -1,0 +1,482 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4385245,
+          -21.2031004
+        ]
+      },
+      "properties": {
+        "marker-color": "rgba(89, 89, 89, 1)",
+        "nome": "Terminal Urbano Nelson Reis Alves",
+        "marker-size": "medium",
+        "marker-symbol": "bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.3988815,
+          -21.2062235
+        ]
+      },
+      "properties": {
+        "marker-color": "#2F9951",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Maria Josefa Martinez Martinelli, 608-684 | Fim De Linha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.401301,
+          -21.205316
+        ]
+      },
+      "properties": {
+        "marker-color": "#2F9951",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Arlíndo Novaes, 499-557"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.402857,
+          -21.2060704
+        ]
+      },
+      "properties": {
+        "marker-color": "#2F9951",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua José J Rodrigues, 287"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4048177,
+          -21.207419
+        ]
+      },
+      "properties": {
+        "marker-color": "#2F9951",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Avenida Manoel Martins Guerra, 155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4064689,
+          -21.210701
+        ]
+      },
+      "properties": {
+        "marker-color": "#2F9951",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Dos Fundadores, 2370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4059507,
+          -21.2092887
+        ]
+      },
+      "properties": {
+        "marker-color": "#2F9951",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Cândido De Freitas Santos, 136"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -50.4385243,
+            -21.2030998
+          ],
+          [
+            -50.4381363,
+            -21.2026622
+          ],
+          [
+            -50.4381023,
+            -21.2027484
+          ],
+          [
+            -50.4380943,
+            -21.2027954
+          ],
+          [
+            -50.4380698,
+            -21.2028407
+          ],
+          [
+            -50.4380114,
+            -21.2029112
+          ],
+          [
+            -50.4379855,
+            -21.2029482
+          ],
+          [
+            -50.4379516,
+            -21.2029804
+          ],
+          [
+            -50.4374259,
+            -21.2034211
+          ],
+          [
+            -50.4368718,
+            -21.2038549
+          ],
+          [
+            -50.4384297,
+            -21.205695
+          ],
+          [
+            -50.4383806,
+            -21.2060517
+          ],
+          [
+            -50.4281945,
+            -21.2052103
+          ],
+          [
+            -50.4283358,
+            -21.2035545
+          ],
+          [
+            -50.4282674,
+            -21.2031307
+          ],
+          [
+            -50.4241821,
+            -21.2042297
+          ],
+          [
+            -50.4237952,
+            -21.2042213
+          ],
+          [
+            -50.4223014,
+            -21.2048337
+          ],
+          [
+            -50.4221934,
+            -21.2050267
+          ],
+          [
+            -50.4209225,
+            -21.2057257
+          ],
+          [
+            -50.4193332,
+            -21.2064972
+          ],
+          [
+            -50.4180824,
+            -21.2069419
+          ],
+          [
+            -50.4177495,
+            -21.2068664
+          ],
+          [
+            -50.4151723,
+            -21.2080663
+          ],
+          [
+            -50.4117978,
+            -21.2095008
+          ],
+          [
+            -50.4111588,
+            -21.2097409
+          ],
+          [
+            -50.4110216,
+            -21.2096526
+          ],
+          [
+            -50.4108845,
+            -21.2093664
+          ],
+          [
+            -50.4097119,
+            -21.2099084
+          ],
+          [
+            -50.4092353,
+            -21.2089384
+          ],
+          [
+            -50.4086355,
+            -21.2078353
+          ],
+          [
+            -50.408338,
+            -21.2072841
+          ],
+          [
+            -50.4061775,
+            -21.2082724
+          ],
+          [
+            -50.4055935,
+            -21.2085564
+          ],
+          [
+            -50.4067413,
+            -21.2107569
+          ],
+          [
+            -50.4052877,
+            -21.210622
+          ],
+          [
+            -50.4047919,
+            -21.2107281
+          ],
+          [
+            -50.404848,
+            -21.2063867
+          ],
+          [
+            -50.4028669,
+            -21.2074114
+          ],
+          [
+            -50.4028669,
+            -21.2054692
+          ],
+          [
+            -50.4027007,
+            -21.2053381
+          ],
+          [
+            -50.398886,
+            -21.2053132
+          ],
+          [
+            -50.3988829,
+            -21.2062728
+          ],
+          [
+            -50.3988829,
+            -21.2062726
+          ]
+        ]
+      },
+      "properties": {
+        "stroke": "#2F9951",
+        "nome": "Linha 108 - Terminal Água Branca",
+        "tempoEstimado": "60min"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.406991,
+          -21.2078955
+        ]
+      },
+      "properties": {
+        "marker-color": "#2F9951",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Victor Bombonati, 322"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4089706,
+          -21.2083965
+        ]
+      },
+      "properties": {
+        "marker-color": "#2F9951",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Sargento Antônio Alves, 225-279"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4097396,
+          -21.2098439
+        ]
+      },
+      "properties": {
+        "marker-color": "#2F9951",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Sargento Antônio Alves, 63-117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4117873,
+          -21.2094686
+        ]
+      },
+      "properties": {
+        "marker-color": "#2F9951",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Dos Fundadores, 1761-1841"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4141932,
+          -21.2084059
+        ]
+      },
+      "properties": {
+        "marker-color": "#2F9951",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Dos Fundadores, 1419-1503"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.416083,
+          -21.2076144
+        ]
+      },
+      "properties": {
+        "marker-color": "#2F9951",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Dos Fundadores, 1291-1335"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4175472,
+          -21.2069054
+        ]
+      },
+      "properties": {
+        "marker-color": "#2F9951",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Dos Fundadores, 1035-1099"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4226765,
+          -21.2046241
+        ]
+      },
+      "properties": {
+        "marker-color": "#2F9951",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Dos Fundadores, 1565"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.429884,
+          -21.2053285
+        ]
+      },
+      "properties": {
+        "marker-color": "#2F9951",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Floriano Peixoto, 869-925"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4333049,
+          -21.2055851
+        ]
+      },
+      "properties": {
+        "marker-color": "#2F9951",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Floriano Peixoto, 587"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4370384,
+          -21.2059401
+        ]
+      },
+      "properties": {
+        "marker-color": "#2F9951",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "nome": "Rua Floriano Peixoto, 109"
+      }
+    }
+  ]
+}
