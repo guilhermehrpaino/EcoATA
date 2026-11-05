@@ -1,0 +1,40 @@
+.layout{
+    display: flex;
+    width: 100%;
+    gap: 20px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.titulo{
+    text-align: center;
+    font-size: 20px;
+    color: #000000;
+}
+
+.conteudo{
+    width: 50%;
+}
+
+#mapa {
+    width: 50%;
+    height: 600px;
+    border-radius: 12px;
+}
+
+/* Responsividade */
+
+@media (max-width: 768px) {
+    .layout {
+        flex-direction: column;
+    }
+
+    .conteudo,
+    #mapa {
+        width: 100%;
+    }
+
+    #mapa {
+        height: 400px;
+    }
+}

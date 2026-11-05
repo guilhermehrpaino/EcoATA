@@ -44,7 +44,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         body {
             background-color: #fbfbfb;
             /* Mapa SVG inspirado na imagem fornecida, com a rota EcoATA sobreposta */
-            background-image: url('fundo-mapa.png');
+            background-image: url("./img/fundo-mapa.png");
             background-size: cover;
             background-position: center;
             font-family: Arial, sans-serif;
