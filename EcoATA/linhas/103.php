@@ -15,7 +15,7 @@
 
 <body>
 
-    <?php require_once __DIR__ . '/../nav.php'; ?>
+    <?php require_once "./nav_linhas.php" ?>
 
     <main>
 
@@ -27,7 +27,7 @@
 
             <div class="aviso">
                 <p>A partir das 19:20hs,aos domingos e feriados o bairro Claudionor Cinti é 
-                    atendido pela <a href="">linha 116 – Lago Azul.</a></p>
+                    atendido pela <a href="./116.php">linha 116 – Lago Azul.</a></p>
             </div>
 
             <!-- COLUNA DO ITINERÁRIO E HORÁRIOS -->
@@ -128,7 +128,7 @@
                     <div class="titulo_tabela">
                         <h4>Domingos e Feriados</h4>
                             <p>A partir das 19:20hs,aos domingos e feriados o bairro Claudionor Cinti é 
-                                atendido pela <a href="">linha 116 – Lago Azul.</a></p>
+                                atendido pela <a href="./116.php">linha 116 – Lago Azul.</a></p>
                     </div>
 
                 </div>
