@@ -38,3 +38,19 @@
 .home{
   float: left;
 }
+
+/*RESPONSIVIDADE NAV-BAR*/
+@media (max-width: 768px) {
+  .menu ul{
+    text-align: center;
+  }
+  .menu li{
+    display: block;
+    padding: 10px;
+  }
+  .menu h1{
+    position: relative;
+    left: 0%;
+    top: 0px;
+  }
+}
