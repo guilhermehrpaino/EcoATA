@@ -7,8 +7,10 @@
         <link rel="stylesheet" href="./css/estilo.css">
     </head>
     <body>
+
+        <?php require_once "./nav.php" ?>
+
         <div class="container">
-            <?php require_once("./nav.php");?>
             <h1>Olá mundo</h1>
         </div>
     </body>
