@@ -60,9 +60,9 @@ try {
 
     <div class="navbar">
         <div>
-            <a href="#">Home</a>
+            <a href="index.php">Home</a>
             <a href="#">Mapa de Linhas</a>
-            <a href="#">Sobre</a>
+            <a href="sobre.php">Sobre</a>
             <a href="#" class="active">Recompensa</a>
         </div>
         <a href="logout.php" style="color: #ff5252;">Sair</a>
