@@ -5,15 +5,15 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>EcoATA</title>
         
-        <link rel="stylesheet" href="./css/estilo.css">
-        <link rel="stylesheet" href="./css/linhas.css">
+        <link rel="stylesheet" href="../css/estilo.css">
+        <link rel="stylesheet" href="../css/linhas.css">
 
         <link rel="stylesheet"
         href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
     </head>
 
     <body>
-        <?php require_once 'nav.php'; ?>
+        <?php require_once "../nav.php"; ?>
         <main>
             <div class="titulo">
                 <br><h1>Linha 103</h1></br>
@@ -75,12 +75,12 @@
                 </div>
 
                 <div id="mapa"
-                    data-geojson="./rotas/rota103.geojson">
+                    data-geojson="../rotas/rota103.geojson">
                 </div>
             </div>
 
             <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-            <script src="./js/mapa.js"></script>
+            <script src="../js/mapa.js"></script>
         </main>
     </body>
 </html>
