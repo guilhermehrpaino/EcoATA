@@ -193,7 +193,7 @@
             <div class="coluna-mapa">
 
                 <div id="mapa"
-                    data-geojson="../rotas/rota112.geojson">
+                    data-geojson="../rotas/rota117.geojson">
                 </div>
 
             </div>

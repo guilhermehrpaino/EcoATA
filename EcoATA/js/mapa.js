@@ -48,7 +48,7 @@ function obterChaveLinha(feature) {
 
 let indiceCor = 0;
 
-fetch(arquivoGeoJson)
+fetch(arquivoGeoJSON)
     .then(response => {
         if (!response.ok) {
             throw new Error('Erro ao carregar o arquivo GeoJSON');
@@ -83,7 +83,7 @@ fetch(arquivoGeoJson)
                 large: 8
             };
             const icones = {
-                bus: './rotas/icon/bus.png'
+                bus: '../rotas/icon/bus.svg'
             };
             const simbolo = properties['marker-symbol'];
 
@@ -125,6 +125,12 @@ fetch(arquivoGeoJson)
             const tipo = feature.geometry.type;
 
             layer.bindPopup(`<strong>${obterNome(properties)}</strong>`);
+
+            if (tipo === 'LineString' || tipo === 'MultiLineString') {
+                    rotasLayer.addLayer(layer);
+                } else if (tipo === 'Point' || tipo === 'MultiPoint') {
+                    paradasLayer.addLayer(layer);
+                }
         }
     });
 }).catch(error => {
