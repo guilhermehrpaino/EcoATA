@@ -1,6 +1,6 @@
 <nav class="menu">
 
-    <a href="index.php" class="logo">
+    <a href="../index.php" class="logo">
         <svg width="180" height="40" viewBox="0 0 180 40"
              xmlns="http://www.w3.org/2000/svg">
 
