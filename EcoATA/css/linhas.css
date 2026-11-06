@@ -267,3 +267,34 @@ h1, h2, h3, h4 {
     }
 
 }
+
+/* paradas */
+.marcador-ponto {
+    background: transparent;
+    border: none;
+}
+
+.icone-ponto {
+    width: 28px;
+    height: 28px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #ffffff;
+    border: 2px solid;
+    border-radius: 50%;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.35);
+}
+
+.icone-onibus {
+    width: 16px;
+    height: 16px;
+    display: block;
+    mask-repeat: no-repeat;
+    mask-position: center;
+    mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-position: center;
+    -webkit-mask-size: contain;
+}

@@ -330,7 +330,8 @@
       },
       "properties": {
         "tempoEstimado": "60min ",
-        "nome": "Linha 115 - TERMINAL - TAVEIRA da TUA"
+        "nome": "Linha 115 - TERMINAL - TAVEIRA da TUA",
+        "stroke": "#6929f2"
       }
     },
     {
