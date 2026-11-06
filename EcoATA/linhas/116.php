@@ -15,7 +15,7 @@
 
 <body>
 
-    <?php require_once __DIR__ . '/../nav.php'; ?>
+    <?php require_once "./nav_linhas.php" ?>
 
     <main>
 
