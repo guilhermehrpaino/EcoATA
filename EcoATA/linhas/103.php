@@ -25,6 +25,11 @@
 
         <div class="layout">
 
+            <div class="aviso">
+                <p>A partir das 19:20hs,aos domingos e feriados o bairro Claudionor Cinti é 
+                    atendido pela <a href="">linha 116 – Lago Azul.</a></p>
+            </div>
+
             <!-- COLUNA DO ITINERÁRIO E HORÁRIOS -->
             <div class="conteudo">
 
@@ -40,42 +45,36 @@
                         <div class="ponto">
                             <div class="ponto-info">
                                 <p>Rua Doutor Francisco de Jesus Valloz, 713-845</p>
-                                <a href="#">PRÓXIMAS CHEGADAS</a>
                             </div>
                         </div>
 
                         <div class="ponto">
                             <div class="ponto-info">
                                 <p>Avenida Presidente Juscelino Kubitschek de Oliveira</p>
-                                <a href="#">PRÓXIMAS CHEGADAS</a>
                             </div>
                         </div>
 
                         <div class="ponto">
                             <div class="ponto-info">
                                 <p>Rua Vereador Décio Sampaio, 323</p>
-                                <a href="#">PRÓXIMAS CHEGADAS</a>
                             </div>
                         </div>
 
                         <div class="ponto">
                             <div class="ponto-info">
                                 <p>Rua Celestino Blaya Mendes, 160-390</p>
-                                <a href="#">PRÓXIMAS CHEGADAS</a>
                             </div>
                         </div>
 
                         <div class="ponto">
                             <div class="ponto-info">
-                                <p>Rua Honório de Oliveira Camargo Júnior, 355-435</p>
-                                <a href="#">PRÓXIMAS CHEGADAS</a>
+                                <p>Rua Honório de Oliveira Camargo Júnior, 355-435</p>                                
                             </div>
                         </div>
 
                         <div class="ponto">
                             <div class="ponto-info">
                                 <p>Shopping Praça Nova</p>
-                                <a href="#">PRÓXIMAS CHEGADAS</a>
                             </div>
                         </div>
 
@@ -99,57 +98,9 @@
                                     <th>Bairro → Terminal</th>
                                 </tr>
                                 <tr>
-                                    <td>05:50</td>
-                                    <td>06:20</td>
+                                    <td>05:50 - 06:50 - 07:50 - 08:50 - 09:50 - 10:50 - 11:50 - 12:50 - 13:50 - 14:50 - 15:50 - 16:50 - 17:50 - 18:50</td>
+                                    <td>06:20 - 07:20 - 08:20 - 09:20 - 10:20 - 11:20 - 12:20 - 13:20 - 14:20 - 15:20 - 16:20 - 17:20 - 18:20</td>
                                 </tr>
-                                <tr>
-                                    <td>06:50</td>
-                                    <td>07:20</td>
-                                </tr>
-                                <tr>
-                                    <td>07:50</td>
-                                    <td>08:20</td>
-                                </tr>
-                                <tr>
-                                    <td>08:50</td>
-                                    <td>09:20</td>
-                                </tr>
-                                <tr>
-                                    <td>09:50</td>
-                                    <td>10:20</td>
-                                </tr>
-                                <tr>
-                                    <td>10:50</td>
-                                    <td>11:20</td>
-                                </tr>
-                                <tr>
-                                    <td>11:50</td>
-                                    <td>12:20</td>
-                                </tr>
-                                <tr>
-                                    <td>12:50</td>
-                                    <td>13:20</td>
-                                </tr>
-                                <tr>
-                                    <td>13:50</td>
-                                    <td>14:20</td>
-                                </tr>
-                                <tr>
-                                    <td>14:50</td>
-                                    <td>15:20</td>
-                                </tr>
-                                <tr>
-                                    <td>15:50</td>
-                                    <td>16:20</td>
-                                </tr>
-                                <tr>
-                                    <td>16:50</td>
-                                    <td>17:20</td>
-                                </tr>
-                                <tr>
-                                    <td>17:50</td>
-                                    <td>18:20</td>
-                                </tr>  
                             </table>
                         </div>
 
@@ -166,8 +117,8 @@
                                     <th>Bairro → Terminal</th>
                                 </tr>
                                 <tr>
-                                    <td>08:00 - 18:00</td>
-                                    <td>08:00 - 12:00</td>
+                                    <td>05:50 - 06:50 - 07:50 - 08:50 - 09:50 - 10:50 - 11:50 - 12:50 - 13:50 - 14:50 - 16:50 - 17:50 - 18:50</td>
+                                    <td>06:20 - 07:20 - 08:20 - 09:20 - 10:20 - 11:20 - 12:20 - 13:20 - 14:20 - 16:20 - 17:20 - 18:20</td>
                                 </tr>
                             </table>
                         </div>
@@ -176,7 +127,8 @@
 
                     <div class="titulo_tabela">
                         <h4>Domingos e Feriados</h4>
-                        <p>Sem funcionamento</p>
+                            <p>A partir das 19:20hs,aos domingos e feriados o bairro Claudionor Cinti é 
+                                atendido pela <a href="">linha 116 – Lago Azul.</a></p>
                     </div>
 
                 </div>
