@@ -99,9 +99,57 @@
                                     <th>Bairro → Terminal</th>
                                 </tr>
                                 <tr>
-                                    <td>08:00 - 18:00</td>
-                                    <td>08:00 - 12:00</td>
+                                    <td>05:50</td>
+                                    <td>06:20</td>
                                 </tr>
+                                <tr>
+                                    <td>06:50</td>
+                                    <td>07:20</td>
+                                </tr>
+                                <tr>
+                                    <td>07:50</td>
+                                    <td>08:20</td>
+                                </tr>
+                                <tr>
+                                    <td>08:50</td>
+                                    <td>09:20</td>
+                                </tr>
+                                <tr>
+                                    <td>09:50</td>
+                                    <td>10:20</td>
+                                </tr>
+                                <tr>
+                                    <td>10:50</td>
+                                    <td>11:20</td>
+                                </tr>
+                                <tr>
+                                    <td>11:50</td>
+                                    <td>12:20</td>
+                                </tr>
+                                <tr>
+                                    <td>12:50</td>
+                                    <td>13:20</td>
+                                </tr>
+                                <tr>
+                                    <td>13:50</td>
+                                    <td>14:20</td>
+                                </tr>
+                                <tr>
+                                    <td>14:50</td>
+                                    <td>15:20</td>
+                                </tr>
+                                <tr>
+                                    <td>15:50</td>
+                                    <td>16:20</td>
+                                </tr>
+                                <tr>
+                                    <td>16:50</td>
+                                    <td>17:20</td>
+                                </tr>
+                                <tr>
+                                    <td>17:50</td>
+                                    <td>18:20</td>
+                                </tr>  
                             </table>
                         </div>
 
