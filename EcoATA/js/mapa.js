@@ -1,3 +1,7 @@
+const elementoMapa = document.getElementById('mapa');
+
+const arquivoGeoJSON = elementoMapa.dataset.geojson;
+
 const mapa = L.map('mapa').setView([-21.2075, -50.4400], 13);
 
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
@@ -5,6 +9,8 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
     attribution: '&copy; OpenStreetMap'
     }
 ).addTo(mapa);
+
+
 
 let linhas = {};
 let paradasLayer = L.layerGroup().addTo(mapa);
@@ -42,7 +48,7 @@ function obterChaveLinha(feature) {
 
 let indiceCor = 0;
 
-fetch('rotas.json')
+fetch(arquivoGeoJson)
     .then(response => {
         if (!response.ok) {
             throw new Error('Erro ao carregar o arquivo GeoJSON');
