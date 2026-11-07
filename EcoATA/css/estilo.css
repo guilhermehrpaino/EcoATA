@@ -113,9 +113,10 @@
     width: 95%;
     margin: 0 auto;
     flex-direction: column;
-    margin-bottom: 90px;
+    margin-bottom: 150px;
     height: 700px;
     margin-top: 20px;
+
 }
 
 .mapa-geral h2 {
@@ -132,7 +133,10 @@
     margin-bottom: 200px;
     height: 100%;
     border-radius: 10px;
+    border: 1px, solid, #000000;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.35);
     z-index: 1;
+    
 }
 
 .separador-linhas {
