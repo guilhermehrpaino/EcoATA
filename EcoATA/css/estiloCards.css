@@ -1,0 +1,284 @@
+
+*{
+  margin: 0px;
+  padding: 0px;
+}
+/* LINHAS GERAIS*/
+.linhas{
+  display: inline-block;
+  position: relative;
+  width: 100%;
+  border: 1px solid black;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+.linhas a{
+  text-decoration: none;
+  color: black;
+  text-align: center;
+}
+.linhas h2{
+  padding: 20px;
+  border-bottom: 1px solid black;
+  border-radius: 20px 20px 0px 0px;
+}
+.linhas p{
+  padding: 20px;
+}
+.linhas h4{
+  border-top: 1px solid black;
+  padding: 20px;
+  background-color: rgb(225, 219, 219);
+  border-radius:  0px 0px 20px 20px;
+}
+
+/* LINHA 103 */
+.linha103{
+  border-radius: 20px;
+  border: 1px solid black;
+  width: 30%;
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+.linha103:hover{
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  transition: 0.3s;
+}
+.linha103:hover h4{
+  background-color: #00e676;
+  transition: 0.3s;
+}
+
+/* LINHA 104 */
+.linha104{
+  border-radius: 20px;
+  border: 1px solid black;
+  float: left;
+  width: 30%;
+  margin-left: 40px;
+  margin-top: 40px;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+.linha104:hover{
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  transition: 0.3s;
+}
+.linha104:hover h4{
+  background-color: #00e676;
+  transition: 0.3s;
+}
+/* LINHA 107 */
+.linha107{
+  border-radius: 20px;
+  border: 1px solid black;
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 40px;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+.linha107:hover{
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  transition: 0.3s;
+}
+.linha107:hover h4{
+  background-color: #00e676;
+  transition: 0.3s;
+}
+
+/* LINHA 108 */
+.linha108{
+  border-radius: 20px;
+  border: 1px solid black;
+  width: 30%;
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+.linha108:hover{
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  transition: 0.3s;
+}
+.linha108:hover h4{
+  background-color: #00e676;
+  transition: 0.3s;
+}
+
+/* LINHA 111 */
+.linha111{
+  border-radius: 20px;
+  border: 1px solid black;
+  float: left;
+  width: 30%;
+  margin-left: 40px;
+  margin-top: 40px;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+.linha111:hover{
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  transition: 0.3s;
+}
+.linha111:hover h4{
+  background-color: #00e676;
+  transition: 0.3s;
+}
+
+/* LINHA 112 */
+.linha112{
+  border-radius: 20px;
+  border: 1px solid black;
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 40px;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+.linha112:hover{
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  transition: 0.3s;
+}
+.linha112:hover h4{
+  background-color: #00e676;
+  transition: 0.3s;
+}
+
+/* LINHA 115 */
+.linha115{
+  border-radius: 20px;
+  border: 1px solid black;
+  width: 30%;
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+.linha115:hover{
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  transition: 0.3s;
+}
+.linha115:hover h4{
+  background-color: #00e676;
+  transition: 0.3s;
+}
+
+/* LINHA 116 */
+.linha116{
+  border-radius: 20px;
+  border: 1px solid black;
+  float: left;
+  width: 30%;
+  margin-left: 40px;
+  margin-top: 40px;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+.linha116:hover{
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  transition: 0.3s;
+}
+.linha116:hover h4{
+  background-color: #00e676;
+  transition: 0.3s;
+}
+
+/* LINHA 117 */
+.linha117{
+  border-radius: 20px;
+  border: 1px solid black;
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 40px;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+.linha117:hover{
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  transition: 0.3s;
+}
+.linha117:hover h4{
+  background-color: #00e676;
+  transition: 0.3s;
+}
+
+/* LINHA 120 */
+.linha120{
+  border-radius: 20px;
+  border: 1px solid black;
+  width: 30%;
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+.linha120:hover{
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  transition: 0.3s;
+}
+.linha120:hover h4{
+  background-color: #00e676;
+  transition: 0.3s;
+}
+
+/* LINHA 121 */
+.linha121{
+  border-radius: 20px;
+  border: 1px solid black;
+  float: left;
+  width: 30%;
+  margin-left: 40px;
+  margin-top: 40px;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+.linha121:hover{
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  transition: 0.3s;
+}
+.linha121:hover h4{
+  background-color: #00e676;
+  transition: 0.3s;
+}
+
+/* LINHA 123 */
+.linha123{
+  border-radius: 20px;
+  border: 1px solid black;
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 40px;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+.linha123:hover{
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  transition: 0.3s;
+}
+.linha123:hover h4{
+  background-color: #00e676;
+  transition: 0.3s;
+}
+
+/* LINHA 126 */
+.linha126{
+  border-radius: 20px;
+  border: 1px solid black;
+  width: 30%;
+  float: left;
+  margin-left: 40px;
+  margin-top: 40px;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+.linha126:hover{
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  transition: 0.3s;
+}
+.linha126:hover h4{
+  background-color: #00e676;
+  transition: 0.3s;
+}
+
+

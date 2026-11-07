@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="./css/estilo.css">
 <div class="menu">
     <ul>
         <h1>EcoATA</h1>
