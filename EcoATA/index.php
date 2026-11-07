@@ -21,28 +21,28 @@
                     </a>
                 </div>
                 <div class="linha104">
-                    <a href="#">
+                    <a href="./linhas/104.php">
                         <h2>LINHA 104</h2>
                         <p>TERMINAL -> SÃO JOSÉ</p>
                         <h4>VER LINHA...</h4>
                     </a>
                 </div>
                 <div class="linha107">
-                    <a href="#">
+                    <a href="./linhas/107.php">
                         <h2>LINHA 107</h2>
                         <p>TERMINAL -> PORTO REAL VIA PALMEIRAS</p>
                         <h4>VER LINHA...</h4>
                     </a>
                 </div>
                 <div class="linha108">
-                    <a href="#">
+                    <a href="./linhas/108.php">
                         <h2>LINHA 108</h2>
                         <p>TERMINAL -> ÁGUA BRANCA</p>
                         <h4>VER LINHA...</h4>
                     </a>
                 </div>
                 <div class="linha111">
-                    <a href="#">
+                    <a href="./linhas/111.php">
                         <h2>LINHA 111</h2>
                         <p>TERMINAL -> APARECIDA/TERRA NOVA/POUPATEMPO</p>
                         <h4>VER LINHA...</h4>
