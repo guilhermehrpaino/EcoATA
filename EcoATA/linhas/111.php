@@ -45,85 +45,97 @@
 
                         <div class="ponto">
                             <div class="ponto-info">
-                                <p>Avenida Presidente Juscelino Kubitschek de Oliveira</p>
+                                <p>Rua do Fico, 230</p>
                             </div>
                         </div>
 
                         <div class="ponto">
                             <div class="ponto-info">
-                                <p>Rua Vereador Décio Sampaio, 323</p>
+                                <p>Rua do Fico, 478</p>
                             </div>
                         </div>
 
                         <div class="ponto">
                             <div class="ponto-info">
-                                <p>Rua Celestino Blaya Mendes, 160-390</p>
+                                <p>Rua do Fico, 660</p>
                             </div>
                         </div>
 
                         <div class="ponto">
                             <div class="ponto-info">
-                                <p>Rua Honório de Oliveira Camargo Júnior, 355-435</p>                                
+                                <p>Rua Aviação, 340</p>                                
                             </div>
                         </div>
 
                         <div class="ponto">
                             <div class="ponto-info">
-                                <p>Shopping Praça Nova</p>
+                                <p>Rua Arthur Ferreira da Costa, 198</p>
                             </div>
                         </div>
 
                         <div class="ponto">
                             <div class="ponto-info">
-                                <p>Rua Cristiano Olse, 3613</p>
+                                <p>Rua Arthur Ferreira da Costa, 411</p>
                             </div>
                         </div>
 
                         <div class="ponto">
                             <div class="ponto-info">
-                                <p>Rua Cristiano Olse, 2931</p>
+                                <p>Rua Arthur Ferreira da Costa, 563</p>
                             </div>
                         </div>
 
                         <div class="ponto">
                             <div class="ponto-info">
-                                <p>Rua Cristiano Olse, 2501</p>
+                                <p>Rua Arthur Ferreira da Costa, 730</p>
                             </div>
                         </div>
 
                         <div class="ponto">
                             <div class="ponto-info">
-                                <p>Rua Cristiano Olse, 1987</p>
+                                <p>Rua Arthur Ferreira da Costa, 1050-1082</p>
                             </div>
                         </div>
 
                         <div class="ponto">
                             <div class="ponto-info">
-                                <p>Rua Cristiano Olse, 1741-1791</p>
+                                <p>Rua Arthur Ferreira da Costa, 1162</p>
                             </div>
                         </div>
 
                         <div class="ponto">
                             <div class="ponto-info">
-                                <p>Rua Duque de Caxias, 721-749</p>
+                                <p>Rua Arthur Ferreira da Costa, 1352-1374</p>
                             </div>
                         </div>
 
                         <div class="ponto">
                             <div class="ponto-info">
-                                <p>Rua Duque de Caxias, 523</p>
+                                <p>Rua Bauru, 132</p>
                             </div>
                         </div>
 
                         <div class="ponto">
                             <div class="ponto-info">
-                                <p>Rua Luiz Pereira Barreto, 137</p>
+                                <p>Rua Sud Menuci, 614</p>
                             </div>
                         </div>
 
                         <div class="ponto">
                             <div class="ponto-info">
-                                <p>Terminal Urbano Nelson Reis Alves</p>
+                                <p>Rua Aeronáutica, 90-180</p>
+                            </div>
+                        </div>
+
+                        <div class="ponto">
+                            <div class="ponto-info">
+                                <p>Rua Aeronáutica, 276-358</p>
+                            </div>
+                        </div>
+
+                        <div class="ponto">
+                            <div class="ponto-info">
+                                <p>Terra Nova</p>
                             </div>
                         </div>
 
@@ -147,8 +159,10 @@
                                     <th>Bairro → Terminal</th>
                                 </tr>
                                 <tr>
-                                    <td>05:50 - 06:50 - 07:50 - 08:50 - 09:50 - 10:50 - 11:50 - 12:50 - 13:50 - 14:50 - 15:50 - 16:50 - 17:50 - 18:50</td>
-                                    <td>06:20 - 07:20 - 08:20 - 09:20 - 10:20 - 11:20 - 12:20 - 13:20 - 14:20 - 15:20 - 16:20 - 17:20 - 18:20</td>
+                                    <td>06:20 - 07:20 - 08:20 - 09:20 - 10:20 - 11:20 - 12:20 - 13:20 - 14:20 - 
+                                        15:20 - 16:20 - 17:20 - 18:20 - 19:20 - 20:20 - 21:20 - 22:20 - 23:20</td>
+                                    <td>05:50 - 06:50 - 07:50 - 08:50 - 09:50 - 10:50 - 11:50 - 12:50 - 
+                                        13:50 - 14:50 - 15:50 - 16:50 - 17:50 - 18:50 - 19:50 - 20:50 - 21:50 - 22:50</td>
                                 </tr>
                             </table>
                         </div>
@@ -166,8 +180,8 @@
                                     <th>Bairro → Terminal</th>
                                 </tr>
                                 <tr>
-                                    <td>05:50 - 06:50 - 07:50 - 08:50 - 09:50 - 10:50 - 11:50 - 12:50 - 13:50 - 14:50 - 16:50 - 17:50 - 18:50</td>
                                     <td>06:20 - 07:20 - 08:20 - 09:20 - 10:20 - 11:20 - 12:20 - 13:20 - 14:20 - 16:20 - 17:20 - 18:20</td>
+                                    <td>05:50 - 06:50 - 07:50 - 08:50 - 09:50 - 10:50 - 11:50 - 12:50 - 13:50 - 14:50 - 16:50 - 17:50</td>
                                 </tr>
                             </table>
                         </div>
@@ -183,8 +197,8 @@
                                         <th>Bairro → Terminal</th>
                                     </tr>
                                     <tr>
-                                        <td>05:50 - 06:50 - 07:50 - 08:50 - 09:50 - 10:50 - 11:50 - 12:50 - 13:50 - 14:50 - 16:50 - 17:50 - 18:50</td>
-                                        <td>06:20 - 07:20 - 08:20 - 09:20 - 10:20 - 11:20 - 12:20 - 13:20 - 14:20 - 16:20 - 17:20 - 18:20</td>
+                                        <td>07:20 - 08:20 - 09:20 - 10:20 - 13:20 - 14:20 - 15:20 - 16:20</td>
+                                        <td>06:50 - 07:50 - 08:50 - 09:50 - 10:50 - 13:50 - 14:50 - 15:50 - 16:50</td>
                                     </tr>
                                 </table>
                              </div>
