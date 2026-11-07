@@ -20,13 +20,13 @@
     <main>
 
         <div class="titulo">
-            <h1>Linha 103</h1>
+            <h1>Linha 103 - Claudionor Cinti</h1>
         </div>
 
         <div class="layout">
 
             <div class="aviso">
-                <p>A partir das 19:20hs,aos domingos e feriados o bairro Claudionor Cinti é 
+                <p>A partir das 19:20hs, aos domingos e feriados o bairro Claudionor Cinti é 
                     atendido pela <a href="./116.php">linha 116 – Lago Azul.</a></p>
             </div>
 
@@ -75,6 +75,60 @@
                         <div class="ponto">
                             <div class="ponto-info">
                                 <p>Shopping Praça Nova</p>
+                            </div>
+                        </div>
+
+                        <div class="ponto">
+                            <div class="ponto-info">
+                                <p>Rua Cristiano Olse, 3613</p>
+                            </div>
+                        </div>
+
+                        <div class="ponto">
+                            <div class="ponto-info">
+                                <p>Rua Cristiano Olse, 2931</p>
+                            </div>
+                        </div>
+
+                        <div class="ponto">
+                            <div class="ponto-info">
+                                <p>Rua Cristiano Olse, 2501</p>
+                            </div>
+                        </div>
+
+                        <div class="ponto">
+                            <div class="ponto-info">
+                                <p>Rua Cristiano Olse, 1987</p>
+                            </div>
+                        </div>
+
+                        <div class="ponto">
+                            <div class="ponto-info">
+                                <p>Rua Cristiano Olse, 1741-1791</p>
+                            </div>
+                        </div>
+
+                        <div class="ponto">
+                            <div class="ponto-info">
+                                <p>Rua Duque de Caxias, 721-749</p>
+                            </div>
+                        </div>
+
+                        <div class="ponto">
+                            <div class="ponto-info">
+                                <p>Rua Duque de Caxias, 523</p>
+                            </div>
+                        </div>
+
+                        <div class="ponto">
+                            <div class="ponto-info">
+                                <p>Rua Luiz Pereira Barreto, 137</p>
+                            </div>
+                        </div>
+
+                        <div class="ponto">
+                            <div class="ponto-info">
+                                <p>Terminal Urbano Nelson Reis Alves</p>
                             </div>
                         </div>
 
@@ -127,7 +181,7 @@
 
                     <div class="titulo_tabela">
                         <h4>Domingos e Feriados</h4>
-                            <p>A partir das 19:20hs,aos domingos e feriados o bairro Claudionor Cinti é 
+                            <p>A partir das 19:20hs, aos domingos e feriados o bairro Claudionor Cinti é 
                                 atendido pela <a href="./116.php">linha 116 – Lago Azul.</a></p>
                     </div>
 
