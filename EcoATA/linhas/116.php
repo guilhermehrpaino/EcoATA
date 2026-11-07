@@ -20,7 +20,7 @@
     <main>
 
         <div class="titulo">
-            <h1>Linha 116</h1>
+            <h1>Linha 116 - Jussara / Lago Azul / Nova York</h1>
         </div>
 
         <div class="layout">

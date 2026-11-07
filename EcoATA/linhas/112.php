@@ -20,7 +20,7 @@
     <main>
 
         <div class="titulo">
-            <h1>Linha 112</h1>
+            <h1>Linha 112 - Jardim Atlântico / Etemp</h1>
         </div>
 
         <div class="layout">
