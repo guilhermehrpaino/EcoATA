@@ -2,11 +2,11 @@
 require_once 'conexao.php';
 
 $nome = "Administrador";
-$email = "admin"; // Vamos salvar "admin" na coluna de e-mail para simplificar o login
+$email = "admin";
 $senha_plana = "123456"; 
 
 $senha_hash = password_hash($senha_plana, PASSWORD_DEFAULT);
-$saldo_inicial = 5000; // Pontos iniciais para apresentação
+$saldo_inicial = 5000; 
 
 try {
     $sql = "INSERT INTO usuarios (nome, email, senha, saldo_pontos) VALUES (:nome, :email, :senha, :saldo_pontos)";

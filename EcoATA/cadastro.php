@@ -18,7 +18,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             $erro = "Este usuário já está cadastrado!";
         } else {
             $senha_hash = password_hash($senha, PASSWORD_DEFAULT);
-            $saldo_inicial = 100; // Bônus de boas-vindas
+            $saldo_inicial = 100; 
 
             $sql = "INSERT INTO usuarios (nome, email, senha, saldo_pontos) VALUES (:nome, :email, :senha, :saldo_pontos)";
             $stmt = $pdo->prepare($sql);
@@ -47,7 +47,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     <style>
         body {
             background-color: #fbfbfb;
-            background-image: url('fundo-mapa.png'); /* Usando a sua imagem PNG */
+            background-image: url('fundo-mapa.png'); 
             background-size: cover;
             background-position: center;
             font-family: Arial, sans-serif;
@@ -133,7 +133,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 <body>
 
 <div class="login-container">
-    <!-- Logótipo EcoATA centrado -->
+    
     <div style="display: flex; justify-content: center; margin-bottom: 25px;">
         <svg width="180" height="40" viewBox="0 0 180 40" xmlns="http://www.w3.org/2000/svg">
             <path d="M 20 5 C 12 5, 5 12, 5 20 C 5 30, 20 40, 20 40 C 20 40, 35 30, 35 20 C 35 12, 28 5, 20 5 Z" fill="none" stroke="#00e676" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>

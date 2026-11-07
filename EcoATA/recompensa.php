@@ -30,11 +30,9 @@ try {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Recompensas - EcoATA</title>
     
-    <!-- CSS da equipa (para o menu nav.php) -->
     <link rel="stylesheet" href="./css/estilo.css">
     
     <style>
-        /* Ajuste do fundo da página para o tom claro do projeto */
         body { 
             background-color: #f8faf9; 
             color: #222; 
@@ -45,17 +43,16 @@ try {
         
         .container { padding: 40px 20px; max-width: 1100px; margin: 0 auto; }
         
-        /* Contentor superior (Painel do Utilizador) */
         .header-painel { 
             display: flex; 
             justify-content: space-between; 
             align-items: center; 
-            background-color: #ffffff; /* Contentor branco */
+            background-color: #ffffff; 
             padding: 25px; 
             border-radius: 12px; 
             margin-bottom: 30px; 
             border: 1px solid #e0e0e0;
-            box-shadow: 0 3px 10px rgba(0, 0, 0, 0.05); /* Sombra suave */
+            box-shadow: 0 3px 10px rgba(0, 0, 0, 0.05); 
         }
         .header-painel h2 { margin: 0 0 5px 0; color: #222; font-size: 24px; }
         .saldo { color: #16834a; font-size: 26px; font-weight: bold; }
@@ -80,16 +77,16 @@ try {
             transform: translateY(-2px);
         }
         
-        /* Grelha de Cupons */
+        
         .grid-cupons { 
             display: grid; 
             grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); 
             gap: 20px; 
         }
         
-        /* Contentor dos Cupons */
+       
         .cupom-card { 
-            background-color: #ffffff; /* Contentor branco */
+            background-color: #ffffff; 
             border: 1px solid #e0e0e0; 
             border-radius: 12px; 
             padding: 25px 20px; 
@@ -108,7 +105,7 @@ try {
         .cupom-card h3 { margin: 12px 0; color: #176b40; font-size: 20px; }
         .cupom-card p { font-weight: bold; color: #222; margin-bottom: 20px; }
         
-        /* Botões de Resgate */
+        
         .btn-resgatar { 
             background-color: #16834a; 
             color: #ffffff; 
@@ -125,7 +122,7 @@ try {
         .btn-disabled { background-color: #e0e0e0; color: #888; cursor: not-allowed; }
         .btn-disabled:hover { background-color: #e0e0e0; }
         
-        /* Alertas de Sucesso e Erro */
+        
         .alerta { padding: 15px; border-radius: 6px; margin-bottom: 20px; text-align: center; font-weight: bold; }
         .alerta-sucesso { background-color: #edf5ef; border: 1px solid #16834a; color: #16834a; }
         .alerta-erro { background-color: #fce8e8; border: 1px solid #e53935; color: #e53935; }
@@ -133,11 +130,11 @@ try {
 </head>
 <body>
 
-    <!-- Chamamos o menu do colega -->
+   
     <?php require_once 'nav.php'; ?>
 
     <div class="container">
-        <!-- Área de Alertas -->
+       
         <?php if (isset($_SESSION['mensagem_sucesso'])): ?>
             <div class="alerta alerta-sucesso">
                 <?= $_SESSION['mensagem_sucesso'] ?>
