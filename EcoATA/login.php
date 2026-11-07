@@ -4,25 +4,25 @@ require_once 'conexao.php';
 
 $erro = '';
 
-// Verifica se o formulário foi enviado
+
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $email = trim($_POST['email']);
     $senha = $_POST['senha'];
 
     try {
-        // Busca o utilizador pelo email
+        
         $sql = "SELECT * FROM usuarios WHERE email = :email";
         $stmt = $pdo->prepare($sql);
         $stmt->execute([':email' => $email]);
         $usuario = $stmt->fetch();
 
-        // Verifica se o utilizador existe e se a senha criptografada bate certo
+        
         if ($usuario && password_verify($senha, $usuario['senha'])) {
             // Guarda os dados na sessão
             $_SESSION['id_usuario'] = $usuario['id'];
             $_SESSION['nome_usuario'] = $usuario['nome'];
             
-            // Redireciona para a página de recompensas (que vamos criar a seguir)
+            
             header("Location: recompensa.php");
             exit;
         } else {
@@ -43,7 +43,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     <style>
         body {
             background-color: #fbfbfb;
-            /* Mapa SVG inspirado na imagem fornecida, com a rota EcoATA sobreposta */
+            
             background-image: url("./img/fundo-mapa.png");
             background-size: cover;
             background-position: center;
@@ -56,14 +56,14 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         }
 
         .login-container {
-            background-color: #121212; /* Bloco do login em preto */
+            background-color: #121212; 
             color: #ffffff; 
             padding: 40px;
             border-radius: 12px;
-            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.25); /* Sombra mais difusa para dar profundidade sobre o mapa */
+            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.25); 
             text-align: center;
             width: 300px;
-            position: relative; /* Garante que o bloco fique acima do fundo */
+            position: relative; 
             z-index: 10;
         }
 
@@ -125,7 +125,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
 
 <div class="login-container">
-    <!-- Logótipo EcoATA centrado -->
+    
     <div style="display: flex; justify-content: center; margin-bottom: 25px;">
         <svg width="180" height="40" viewBox="0 0 180 40" xmlns="http://www.w3.org/2000/svg">
             <path d="M 20 5 C 12 5, 5 12, 5 20 C 5 30, 20 40, 20 40 C 20 40, 35 30, 35 20 C 35 12, 28 5, 20 5 Z" fill="none" stroke="#00e676" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>

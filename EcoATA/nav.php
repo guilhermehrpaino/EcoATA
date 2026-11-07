@@ -1,3 +1,9 @@
+<?php
+// Inicia a sessão apenas se ainda não tiver sido iniciada
+if (session_status() === PHP_SESSION_NONE) {
+    session_start();
+}
+?>
 <link rel="stylesheet" href="./css/estilo.css">
 <nav class="menu">
 
@@ -22,6 +28,14 @@
     <ul>
         <li class="home"><a href="./index.php">Home</a></li>
         <li><a href="./sobre.php">Sobre</a></li>
-        <li class="login"><a href="./login.php">Login</a></li>
+        
+        <?php if (isset($_SESSION['id_usuario'])): ?>
+            <!-- Menu para utilizador logado -->
+            <li><a href="./recompensa.php">Recompensas</a></li>
+            <li class="login"><a href="./logout.php">Sair</a></li>
+        <?php else: ?>
+            <!-- Menu para visitante -->
+            <li class="login"><a href="./login.php">Login</a></li>
+        <?php endif; ?>
     </ul>
 </nav>

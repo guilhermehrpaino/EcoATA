@@ -31,7 +31,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['hash_lido'])) {
         $id_qrcode = $qr_code['id'];
         $pontos_ganhos = $qr_code['pontos_concedidos'];
 
-        // 2. Verifica se o usuário JÁ escaneou esse mesmo QR Code HOJE (regra antifraude)
+        // 2. Verifica se o usuário JÁ escaneou esse mesmo QR Code 
         $stmt_check = $pdo->prepare("SELECT id FROM historico_scans WHERE id_usuario = :id_user AND id_qrcode = :id_qr AND DATE(lido_em) = CURDATE()");
         $stmt_check->execute([':id_user' => $id_usuario, ':id_qr' => $id_qrcode]);
         
@@ -88,7 +88,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['hash_lido'])) {
     <?php endif; ?>
 
     <div class="camera-box">
-        <!-- Ícone simulando uma câmera -->
         <span style="font-size: 50px;">📱</span>
     </div>
 
