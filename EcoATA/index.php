@@ -5,13 +5,23 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>EcoATA</title>
         <link rel="stylesheet" href="./css/estiloCards.css">
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
     </head>
     <body>
 
         <?php require_once "./nav.php" ?>
 
         <div class="container">
-            <?php require_once("./nav.php");?>
+            <div class="mapa-geral">
+                <h2>Mapa Geral das Linhas</h2>
+                <div id="mapa"
+                    data-geojson="./rotas/rotas.geojson">
+                </div>
+                
+            </div>
+
+            <div class="separador-linhas" aria-hidden="true"></div>
+
             <div class="linhas">
                 <div class="linha103">
                     <a href="./linhas/103.php">
@@ -106,6 +116,12 @@
                 </div>
             </div>
         </div>
+
+        
+
+        <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+        <script src="./js/mapa.js"></script>
+
         <?php require_once "./footer.php" ?>
     </body>
 </html>

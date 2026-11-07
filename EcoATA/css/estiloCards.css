@@ -281,4 +281,31 @@
   transition: 0.3s;
 }
 
+.linhas {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  box-sizing: border-box;
+  width: 100%;
+  padding: 0 40px 40px;
+  justify-content: center;
+}
 
+.linha103,
+.linha104,
+.linha107,
+.linha108,
+.linha111,
+.linha112,
+.linha115,
+.linha116,
+.linha117,
+.linha120,
+.linha121,
+.linha123,
+.linha126 {
+  float: none;
+  box-sizing: border-box;
+  width: calc((100% - 30px) / 2);
+  margin: 0;
+}
