@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="./css/estilo.css">
 <div class="menu">
     <ul>
         <h1>EcoATA</h1>
@@ -6,4 +5,5 @@
         <li><a href="sobre.php">Sobre</a></li>
         <li><a href="login.php">Login</a></li>
     </ul>
-</div>
+
+</nav>
