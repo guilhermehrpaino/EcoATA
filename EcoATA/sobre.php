@@ -24,19 +24,19 @@
         padding: 40px 20px;
     }
 
-    h1 {
-        font-size: 32px;
-        margin-bottom: 20px;
-        color: #176b40;
+    main h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+    color: #176b40;
     }
 
-    h2 {
+    main h2 {
         font-size: 26px;
         margin-bottom: 20px;
         color: #176b40;
     }
 
-    p {
+    main p {
         text-align: justify;
         line-height: 1.8;
         margin-bottom: 20px;
@@ -122,11 +122,11 @@
             padding: 30px 15px;
         }
 
-        h1 {
+        main h1 {
             font-size: 27px;
         }
 
-        h2 {
+        main h2 {
             font-size: 23px;
         }
 
