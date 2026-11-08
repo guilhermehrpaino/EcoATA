@@ -128,9 +128,37 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             margin-bottom: 15px;
             font-size: 14px;
         }
+
+        .voltar-index {
+            position: fixed;
+            top: 24px;
+            left: 24px;
+            z-index: 20;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 44px;
+            height: 44px;
+            border-radius: 50%;
+            background-color: #121212;
+            color: #00e676;
+            text-decoration: none;
+            font-size: 28px;
+            line-height: 1;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+            transition: 0.2s;
+        }
+
+        .voltar-index:hover,
+        .voltar-index:focus-visible {
+            background-color: #00e676;
+            color: #121212;
+            outline: none;
+        }
     </style>
 </head>
 <body>
+<a href="index.php" class="voltar-index" aria-label="Voltar para a página inicial">&#8592;</a>
 
 <div class="login-container">
     
