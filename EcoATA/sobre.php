@@ -100,13 +100,17 @@
     .aviso {
         padding: 20px;
         background-color: #edf5ef;
+        color: #173b2a;
         border-left: 4px solid #16834a;
         border-radius: 5px;
+        box-sizing: border-box;
     }
 
     .aviso p {
         margin: 0;
         font-size: 14px;
+        color: #173b2a;
+        line-height: 1.6;
     }
 
     .fundadores h2 {

@@ -37,5 +37,25 @@ if (session_status() === PHP_SESSION_NONE) {
             <!-- Menu para visitante -->
             <li class="login"><a href="./login.php">Login</a></li>
         <?php endif; ?>
+        <li class="acessibilidade">
+            <button type="button" class="botao-acessibilidade" id="botao-acessibilidade"
+                    aria-controls="menu-acessibilidade" aria-expanded="false"
+                    aria-label="Abrir opções de acessibilidade" title="Acessibilidade">
+                    <svg viewBox="0 0 24 24" aria-hidden="true">
+                        <circle class="circulo-externo" cx="12" cy="12" r="10"></circle>
+                        <circle class="figura-acessibilidade" cx="12" cy="5.1" r="1.55"></circle>
+                        <path class="figura-acessibilidade" d="M12 7.2v6.6M12 9.2 6.7 11.4M12 9.2l5.3 2.2M12 13.8l-3.5 4.8M12 13.8l3.5 4.8"></path>
+                    </svg>
+            </button>
+            <div class="menu-acessibilidade" id="menu-acessibilidade" hidden>
+                <p>Preferências visuais</p>
+                <button type="button" data-acao="diminuir-texto">A- Diminuir texto</button>
+                <button type="button" data-acao="aumentar-texto">A+ Aumentar texto</button>
+                <button type="button" data-acao="contraste" aria-pressed="false">Alto contraste</button>
+                <button type="button" data-acao="links" aria-pressed="false">Destacar links</button>
+                <button type="button" data-acao="normal">Voltar ao normal</button>
+            </div>
+        </li>
     </ul>
 </nav>
+<script src="./js/acessibilidade.js" defer></script>

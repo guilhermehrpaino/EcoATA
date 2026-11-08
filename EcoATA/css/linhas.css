@@ -218,21 +218,51 @@ h1, h2, h3, h4 {
 }
 
 .tabela th {
-    background-color: #f1f4f5;
-    color: #343a40;
+    background-color: #075a96;
+    color: #ffffff;
     padding: 12px 8px;
     border: 1px solid #ddd;
+    font-weight: 700;
 }
 
 .tabela td {
     padding: 12px 8px;
     border: 1px solid #ddd;
-    color: #555;
+    background-color: #ffffff;
+    color: #222222;
+    line-height: 1.6;
 }
 
 .titulo_tabela p {
     font-size: 13px;
     color: #777;
+}
+
+/* CONTRASTE DOS HORÁRIOS */
+
+.alto-contraste .horario,
+.alto-contraste .horario .titulo_tabela,
+.alto-contraste .horario .tabela {
+    background-color: #121212 !important;
+}
+
+.alto-contraste .horario h3,
+.alto-contraste .horario h4,
+.alto-contraste .horario p,
+.alto-contraste .horario td {
+    color: #ffffff !important;
+}
+
+.alto-contraste .horario th {
+    background-color: #000000 !important;
+    color: #ffff00 !important;
+    border-color: #ffff00 !important;
+}
+
+.alto-contraste .horario td {
+    background-color: #ffffff !important;
+    color: #000000 !important;
+    border-color: #ffff00 !important;
 }
 
 /* RESPONSIVIDADE */
