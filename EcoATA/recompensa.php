@@ -126,6 +126,14 @@ try {
         .alerta { padding: 15px; border-radius: 6px; margin-bottom: 20px; text-align: center; font-weight: bold; }
         .alerta-sucesso { background-color: #edf5ef; border: 1px solid #16834a; color: #16834a; }
         .alerta-erro { background-color: #fce8e8; border: 1px solid #e53935; color: #e53935; }
+
+        footer {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+        }
+
     </style>
 </head>
 <body>
@@ -180,5 +188,8 @@ try {
         </div>
     </div>
 
+    <footer>
+        <?php require_once("./footer.php") ?>
+    </footer>
 </body>
 </html>
