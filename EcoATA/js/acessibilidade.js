@@ -32,32 +32,10 @@
         botao.setAttribute("aria-expanded", "false");
     }
 
-    function posicionarMenuMobile() {
-        if (window.innerWidth > 600 || menu.hidden) {
-            menu.style.removeProperty("position");
-            menu.style.removeProperty("left");
-            menu.style.removeProperty("right");
-            menu.style.removeProperty("top");
-            return;
-        }
-
-        var larguraPainel = Math.min(220, window.innerWidth - 24);
-        var esquerda = (window.innerWidth - larguraPainel) / 2;
-
-        menu.style.position = "fixed";
-        menu.style.left = esquerda + "px";
-        menu.style.right = "auto";
-        menu.style.width = larguraPainel + "px";
-        menu.style.top = "78px";
-    }
-
     botao.addEventListener("click", function () {
         menu.hidden = !menu.hidden;
         botao.setAttribute("aria-expanded", menu.hidden ? "false" : "true");
-        posicionarMenuMobile();
     });
-
-    window.addEventListener("resize", posicionarMenuMobile);
 
     menu.addEventListener("click", function (evento) {
         var acao = evento.target.closest("[data-acao]");

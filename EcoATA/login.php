@@ -169,8 +169,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     <?php endif; ?>
     
     <form method="POST" action="login.php">
-        <input type="text" name="email" placeholder="Usuário ou E-mail" required value="admin">
-        <input type="password" name="senha" placeholder="Senha" required value="123456">
+        <input type="text" name="email" placeholder="Usuário ou E-mail" required value="">
+        <input type="password" name="senha" placeholder="Senha" required value="">
         <button type="submit">Entrar</button>
         
         <a href="cadastro.php" class="btn-secundario">Criar nova conta</a>
