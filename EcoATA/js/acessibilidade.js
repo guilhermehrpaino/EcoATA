@@ -32,10 +32,39 @@
         botao.setAttribute("aria-expanded", "false");
     }
 
+    function posicionarMenuMobile() {
+        if (window.innerWidth > 600 || menu.hidden) {
+            menu.style.removeProperty("position");
+            menu.style.removeProperty("left");
+            menu.style.removeProperty("right");
+            menu.style.removeProperty("top");
+            return;
+        }
+
+        var botaoRect = botao.getBoundingClientRect();
+        var larguraPainel = Math.min(220, window.innerWidth - 24);
+        var esquerda = Math.max(12, Math.min(
+            window.innerWidth - larguraPainel - 12,
+            botaoRect.left + (botaoRect.width / 2) - (larguraPainel / 2)
+        ));
+
+        menu.style.position = "fixed";
+        menu.style.left = esquerda + "px";
+        menu.style.right = "auto";
+        menu.style.width = larguraPainel + "px";
+        var alturaPainel = menu.getBoundingClientRect().height;
+        var topoDesejado = botaoRect.bottom + 8;
+        var topo = Math.max(12, Math.min(topoDesejado, window.innerHeight - alturaPainel - 12));
+        menu.style.top = topo + "px";
+    }
+
     botao.addEventListener("click", function () {
         menu.hidden = !menu.hidden;
         botao.setAttribute("aria-expanded", menu.hidden ? "false" : "true");
+        posicionarMenuMobile();
     });
+
+    window.addEventListener("resize", posicionarMenuMobile);
 
     menu.addEventListener("click", function (evento) {
         var acao = evento.target.closest("[data-acao]");
