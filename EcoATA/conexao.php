@@ -1,7 +1,7 @@
 <?php
-$dns="mysql:host=sql102.infinityfree.com;dbname=if0_43383171_ideathon_fatec;charset=utf8";
-$user="if0_43383171";
-$pass="ideathonpass";
+$dns="EnderecoDNSAqui";
+$user="UsuarioAqui";
+$pass="senhaAqui";
 $opcoes = [
     PDO::ATTR_ERRMODE            => PDO::ERRMODE_EXCEPTION, 
     PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC,       
