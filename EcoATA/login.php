@@ -12,7 +12,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     try {
         
         $sql = "SELECT * FROM usuarios WHERE email = :email";
-        $stmt = $pdo->prepare($sql);
+        $stmt = $conexao->prepare($sql);
         $stmt->execute([':email' => $email]);
         $usuario = $stmt->fetch();
 

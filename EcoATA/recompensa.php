@@ -12,11 +12,11 @@ $id_usuario = $_SESSION['id_usuario'];
 $nome_usuario = $_SESSION['nome_usuario'];
 
 try {
-    $stmt_saldo = $pdo->prepare("SELECT saldo_pontos FROM usuarios WHERE id = :id");
+    $stmt_saldo = $conexao->prepare("SELECT saldo_pontos FROM usuarios WHERE id = :id");
     $stmt_saldo->execute([':id' => $id_usuario]);
     $saldo = $stmt_saldo->fetchColumn();
 
-    $stmt_recompensas = $pdo->query("SELECT * FROM recompensas WHERE ativo = 1 ORDER BY custo_pontos ASC");
+    $stmt_recompensas = $conexao->query("SELECT * FROM recompensas WHERE ativo = 1 ORDER BY custo_pontos ASC");
     $recompensas = $stmt_recompensas->fetchAll();
 } catch (\PDOException $e) {
     die("Erro ao buscar dados: " . $e->getMessage());

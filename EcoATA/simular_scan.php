@@ -17,10 +17,10 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['hash_lido'])) {
     $hash_lido = trim($_POST['hash_lido']); // O código que veio do QR Code
 
     try {
-        $pdo->beginTransaction();
+        $conexao->beginTransaction();
 
         // 1. Verifica se o QR Code existe e está ativo
-        $stmt_qr = $pdo->prepare("SELECT id, pontos_concedidos FROM qr_codes WHERE hash_codigo = :hash AND ativo = 1");
+        $stmt_qr = $conexao->prepare("SELECT id, pontos_concedidos FROM qr_codes WHERE hash_codigo = :hash AND ativo = 1");
         $stmt_qr->execute([':hash' => $hash_lido]);
         $qr_code = $stmt_qr->fetch();
 
@@ -32,7 +32,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['hash_lido'])) {
         $pontos_ganhos = $qr_code['pontos_concedidos'];
 
         // 2. Verifica se o usuário JÁ escaneou esse mesmo QR Code 
-        $stmt_check = $pdo->prepare("SELECT id FROM historico_scans WHERE id_usuario = :id_user AND id_qrcode = :id_qr AND DATE(lido_em) = CURDATE()");
+        $stmt_check = $conexao->prepare("SELECT id FROM historico_scans WHERE id_usuario = :id_user AND id_qrcode = :id_qr AND DATE(lido_em) = CURDATE()");
         $stmt_check->execute([':id_user' => $id_usuario, ':id_qr' => $id_qrcode]);
         
         if ($stmt_check->rowCount() > 0) {
@@ -40,20 +40,20 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['hash_lido'])) {
         }
 
         // 3. Registra o scan no histórico
-        $stmt_insert = $pdo->prepare("INSERT INTO historico_scans (id_usuario, id_qrcode) VALUES (:id_user, :id_qr)");
+        $stmt_insert = $conexao->prepare("INSERT INTO historico_scans (id_usuario, id_qrcode) VALUES (:id_user, :id_qr)");
         $stmt_insert->execute([':id_user' => $id_usuario, ':id_qr' => $id_qrcode]);
 
         // 4. Adiciona os pontos ao saldo do usuário
-        $stmt_update = $pdo->prepare("UPDATE usuarios SET saldo_pontos = saldo_pontos + :pontos WHERE id = :id_user");
+        $stmt_update = $conexao->prepare("UPDATE usuarios SET saldo_pontos = saldo_pontos + :pontos WHERE id = :id_user");
         $stmt_update->execute([':pontos' => $pontos_ganhos, ':id_user' => $id_usuario]);
 
-        $pdo->commit();
+        $conexao->commit();
         
         $mensagem = "Sucesso! Você ganhou +{$pontos_ganhos} pontos pela sua viagem sustentável!";
         $tipo_alerta = "sucesso";
 
     } catch (Exception $e) {
-        $pdo->rollBack();
+        $conexao->rollBack();
         $mensagem = $e->getMessage();
         $tipo_alerta = "erro";
     }

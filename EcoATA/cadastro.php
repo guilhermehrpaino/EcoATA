@@ -11,7 +11,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $senha = $_POST['senha'];
 
     try {
-        $stmt_check = $pdo->prepare("SELECT id FROM usuarios WHERE email = :email");
+        $stmt_check = $conexao->prepare("SELECT id FROM usuarios WHERE email = :email");
         $stmt_check->execute([':email' => $email]);
         
         if ($stmt_check->rowCount() > 0) {
@@ -21,7 +21,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             $saldo_inicial = 100; 
 
             $sql = "INSERT INTO usuarios (nome, email, senha, saldo_pontos) VALUES (:nome, :email, :senha, :saldo_pontos)";
-            $stmt = $pdo->prepare($sql);
+            $stmt = $conexao->prepare($sql);
             
             $stmt->execute([
                 ':nome' => $nome,

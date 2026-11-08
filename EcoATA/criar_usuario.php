@@ -10,7 +10,7 @@ $saldo_inicial = 5000;
 
 try {
     $sql = "INSERT INTO usuarios (nome, email, senha, saldo_pontos) VALUES (:nome, :email, :senha, :saldo_pontos)";
-    $stmt = $pdo->prepare($sql);
+    $stmt = $conexao->prepare($sql);
 
     $stmt->execute([
         ':nome' => $nome,
