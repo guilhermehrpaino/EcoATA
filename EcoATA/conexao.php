@@ -12,5 +12,5 @@ $opcoes = [
     try {
         $conexao = new PDO($dns, $user, $pass, $opcoes);
     } catch(PDOException $erro) {
-        echo("Entre em contato com o suporte!")
+        echo("Entre em contato com o suporte!");
     }
