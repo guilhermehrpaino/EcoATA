@@ -233,7 +233,7 @@
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script src="../js/mapa.js"></script>
 
-    <?php require_once "./footer.php" ?>
+    <?php require_once "../footer.php" ?>
 
     </body>
 </html>
