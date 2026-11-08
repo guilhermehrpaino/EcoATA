@@ -47,6 +47,8 @@ try {
             display: flex;
             justify-content: space-between;
             align-items: center;
+            flex-wrap: wrap;
+            gap: 20px;
             background-color: #ffffff;
             padding: 25px;
             border-radius: 12px;
@@ -54,7 +56,16 @@ try {
             border: 1px solid #e0e0e0;
             box-shadow: 0 3px 10px rgba(0, 0, 0, 0.05);
         }
-        .header-painel h2 { margin: 0 0 5px 0; color: #222; font-size: 24px; }
+        .header-painel > div {
+            min-width: 0;
+            flex: 1 1 220px;
+        }
+        .header-painel h2 {
+            margin: 0 0 5px 0;
+            color: #222;
+            font-size: 24px;
+            overflow-wrap: anywhere;
+        }
         .saldo { color: #16834a; font-size: 26px; font-weight: bold; }
 
         /* Botão de simular câmara */
@@ -71,6 +82,8 @@ try {
             gap: 8px;
             transition: 0.2s ease;
             white-space: nowrap;
+            max-width: 100%;
+            box-sizing: border-box;
         }
         .btn-scan-link:hover {
             background-color: #16834a;
