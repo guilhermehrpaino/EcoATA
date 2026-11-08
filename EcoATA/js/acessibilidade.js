@@ -41,21 +41,14 @@
             return;
         }
 
-        var botaoRect = botao.getBoundingClientRect();
         var larguraPainel = Math.min(220, window.innerWidth - 24);
-        var esquerda = Math.max(12, Math.min(
-            window.innerWidth - larguraPainel - 12,
-            botaoRect.left + (botaoRect.width / 2) - (larguraPainel / 2)
-        ));
+        var esquerda = (window.innerWidth - larguraPainel) / 2;
 
         menu.style.position = "fixed";
         menu.style.left = esquerda + "px";
         menu.style.right = "auto";
         menu.style.width = larguraPainel + "px";
-        var alturaPainel = menu.getBoundingClientRect().height;
-        var topoDesejado = botaoRect.bottom + 8;
-        var topo = Math.max(12, Math.min(topoDesejado, window.innerHeight - alturaPainel - 12));
-        menu.style.top = topo + "px";
+        menu.style.top = "78px";
     }
 
     botao.addEventListener("click", function () {
