@@ -17,6 +17,7 @@ let paradasLayer = L.layerGroup().addTo(mapa);
 let rotasLayer = L.layerGroup().addTo(mapa);
 let chavesSemIdentificar = new WeakMap();
 let indiceLinhaSemIdentificacao = 1;
+const caminhoIconeOnibus = new URL('../rotas/icon/bus.svg', document.currentScript.src).href;
 
 function obterNome(properties) {
     return String(
@@ -38,12 +39,12 @@ function obterChaveLinha(feature) {
         return String(identificador);
     }
 
-    if (!chaveSemIdentificacao.has(feature)) {
-        chaveSemIdentificacao.set(feature, `Linha sem Identificação ${indiceLinhaSemIdentificacao}`);
+    if (!chavesSemIdentificar.has(feature)) {
+        chavesSemIdentificar.set(feature, `Linha sem Identificação ${indiceLinhaSemIdentificacao}`);
         indiceLinhaSemIdentificacao++;
     }
 
-    return chaveSemIdentificacao.get(feature);
+    return chavesSemIdentificar.get(feature);
 }
 
 let indiceCor = 0;
@@ -82,9 +83,11 @@ fetch(arquivoGeoJSON)
                 medium: 6,
                 large: 8
             };
+
             const icones = {
-                bus: '../rotas/icon/bus.svg'
+                bus: caminhoIconeOnibus
             };
+            
             const simbolo = properties['marker-symbol'];
 
             if (icones[simbolo]) {

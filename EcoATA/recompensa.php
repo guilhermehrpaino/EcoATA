@@ -12,11 +12,11 @@ $id_usuario = $_SESSION['id_usuario'];
 $nome_usuario = $_SESSION['nome_usuario'];
 
 try {
-    $stmt_saldo = $pdo->prepare("SELECT saldo_pontos FROM usuarios WHERE id = :id");
+    $stmt_saldo = $conexao->prepare("SELECT saldo_pontos FROM usuarios WHERE id = :id");
     $stmt_saldo->execute([':id' => $id_usuario]);
     $saldo = $stmt_saldo->fetchColumn();
 
-    $stmt_recompensas = $pdo->query("SELECT * FROM recompensas WHERE ativo = 1 ORDER BY custo_pontos ASC");
+    $stmt_recompensas = $conexao->query("SELECT * FROM recompensas WHERE ativo = 1 ORDER BY custo_pontos ASC");
     $recompensas = $stmt_recompensas->fetchAll();
 } catch (\PDOException $e) {
     die("Erro ao buscar dados: " . $e->getMessage());
@@ -126,6 +126,14 @@ try {
         .alerta { padding: 15px; border-radius: 6px; margin-bottom: 20px; text-align: center; font-weight: bold; }
         .alerta-sucesso { background-color: #edf5ef; border: 1px solid #16834a; color: #16834a; }
         .alerta-erro { background-color: #fce8e8; border: 1px solid #e53935; color: #e53935; }
+
+        footer {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+        }
+
     </style>
 </head>
 <body>
@@ -180,5 +188,8 @@ try {
         </div>
     </div>
 
+    <footer>
+        <?php require_once("./footer.php") ?>
+    </footer>
 </body>
 </html>
