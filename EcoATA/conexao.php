@@ -1,5 +1,5 @@
 <?php
-$dns="mysql:host=localhost;dbname=ideathon_aracatuba;charset=utf-8";
+$dns="mysql:host=localhost;dbname=ideathon_aracatuba;";
 $user="root";
 $pass="";
 $opcoes = [
