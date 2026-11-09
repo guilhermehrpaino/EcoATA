@@ -119,6 +119,7 @@ A aplicação também possui uma página dedicada à apresentação do projeto, 
 A seguir iremos listar onde utilizamos IA para auxilio durante a criação do site.
 
 - IA foi utilizada para criar o menu de acessibilidade de maneira completa.
+- IA foi utilizada como apoio em dificuldades no CSS, HTML e PHP, ajudando a refinar o site.
 
 ---
 
