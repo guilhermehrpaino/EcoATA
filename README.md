@@ -115,6 +115,12 @@ A aplicação também possui uma página dedicada à apresentação do projeto, 
 
 ---
 
+### 7. Declaração de Originalidade e Uso de IA
+
+A seguir iremos listar onde utilizamos IA para auxilio durante a criação do site.
+
+- IA foi utilizada para criar o menu de acessibilidade de maneira completa.
+
 ## Tecnologias utilizadas
 
 O projeto foi desenvolvido utilizando tecnologias voltadas ao desenvolvimento web e à visualização de informações geográficas.
