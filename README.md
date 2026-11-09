@@ -119,6 +119,7 @@ A aplicação também possui uma página dedicada à apresentação do projeto, 
 A seguir iremos listar onde utilizamos IA para auxilio durante a criação do site.
 
 - IA foi utilizada para criar o menu de acessibilidade de maneira completa.
+- Uso de IA feito para: a criação do botão "Escanear QRCode", e transação segura, ao resgatar pontos.
 
 ---
 
