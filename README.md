@@ -4,9 +4,8 @@
   Uma plataforma para explorar as linhas de transporte público de Araçatuba e incentivar a mobilidade sustentável por meio da tecnologia.
 </p>
 
-<p align="center">
-  <a href="https://ecoata.freedev.app/">Acessar aplicação</a> •
-  <a href="https://github.com/guilhermehrpaino/EcoATA">Repositório</a>
+<p text align="left">
+  👨‍💻<a href="https://ecoata.freedev.app/"> Acessar aplicação</a> 
 </p>
 
 ## Sobre o EcoATA
