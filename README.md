@@ -113,13 +113,14 @@ A aplicação também possui uma página dedicada à apresentação do projeto, 
 - Apresentação da TUA (Transportes Urbanos Araçatuba).
 - Identificação dos desenvolvedores responsáveis pelo projeto.
 
----
 
 ### 7. Declaração de Originalidade e Uso de IA
 
 A seguir iremos listar onde utilizamos IA para auxilio durante a criação do site.
 
 - IA foi utilizada para criar o menu de acessibilidade de maneira completa.
+
+---
 
 ## Tecnologias utilizadas
 
